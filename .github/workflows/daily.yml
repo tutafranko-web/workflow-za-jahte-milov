@@ -1,0 +1,62 @@
+name: Daily charter outreach
+
+on:
+  schedule:
+    # 07:00 UTC = 09:00 CEST (summer) / 08:00 CET (winter)
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+    inputs:
+      batch:
+        description: 'Batch size (max 20/day cap is enforced by script)'
+        required: false
+        default: '20'
+      dry_run:
+        description: 'Render only, do not send'
+        type: boolean
+        required: false
+        default: false
+
+concurrency:
+  group: daily-outreach
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run SMTP sender
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+        run: |
+          ARGS="--batch ${{ github.event.inputs.batch || '20' }}"
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          python src/smtp_sender.py $ARGS
+
+      - name: Commit updated state
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/sent_log.json data/already_drafted.json data/leads.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No state changes to commit"
+          else
+            git commit -m "chore: update outreach state $(date -u +%Y-%m-%d)"
+            git push
+          fi

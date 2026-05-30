@@ -1,0 +1,28 @@
+SUBJECT_VARIANTS:
+- Pareja patrón + marinera disponible en {{ city }}
+- RYA Yachtmaster + marinera D2 — buscando trabajo en {{ city }}
+- Patrón + marinera disponibles — puesto {{ category_label }}
+- Pareja croata patrón + marinera, busca temporada en {{ city }}
+
+---
+BODY:
+Hola {{ contact_first_name | default('equipo') }},
+
+{{ personalization }}
+
+Escribo por si {{ company_name }} contrata (o conoce a alguien que contrate) tripulación. Mi pareja y yo somos un equipo patrón + marinera disponibles de inmediato:
+
+- **{{ skipper_full_name }}** — RYA Yachtmaster, {{ skipper_experience_years }} años en {{ vessel_types_short }}
+- **{{ deckhand_full_name }}** — D2 croata, marinera y azafata con experiencia en excursiones diarias
+
+Hemos hecho varias temporadas completas en Croacia (excursiones diarias Split-Hvar-Brač-Vis) y queremos pasar a una operación seria en {{ city }} o el Mediterráneo en general. También abiertos al invierno caribeño 2026/27.
+
+Idiomas: {{ languages }}.
+
+Adjuntamos CV conjunto. Si {{ company_name }} no contrata directamente, una recomendación a alguien que sí lo haga nos vendría muy bien.
+
+Un saludo,
+{{ skipper_full_name }}
+{{ skipper_phone }} (WhatsApp) · {{ skipper_email }}
+
+— Responde STOP para no recibir más mensajes.

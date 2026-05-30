@@ -1,0 +1,921 @@
+[
+  {
+    "to": "anja.eckart@fys.de",
+    "domain": "fysbaleares.es",
+    "company_name": "FYS Mallorca",
+    "category": "broker",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "FYS Mallorca caught my eye as a serious brokerage with deep roots in the Balearics, and we'd love to be considered for any captain/skipper opening in your fleet or network."
+  },
+  {
+    "to": "info@boatchartermallorca.com",
+    "domain": "boatchartermallorca.com",
+    "company_name": "Boat Charter Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We've followed Boat Charter Mallorca and like the way you handle direct-to-guest charter in the Palma area — exactly the kind of operation we're looking for after 3 seasons running daily charters out of Split/Vis."
+  },
+  {
+    "to": "palma@burgessyachts.com",
+    "domain": "burgessyachts.com",
+    "company_name": "Burgess Yachts Palma",
+    "category": "broker",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We'd like to register with Burgess as a Captain + Stewardess couple available for immediate placement. Croatian, ready to relocate to Palma, open to any Med role for the rest of 2026 + Caribbean winter 2026/27."
+  },
+  {
+    "to": "palma@fraseryachts.com",
+    "domain": "fraseryachts.com",
+    "company_name": "Fraser Yachts Palma",
+    "category": "broker",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We'd like to register with Fraser as a Captain + Stewardess couple available for immediate placement. Croatian, ready to relocate to Palma now."
+  },
+  {
+    "to": "spain@navigare-yachting.com",
+    "domain": "navigare-yachting.com",
+    "company_name": "Navigare Yachting Spain",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We're applying for any open roles at your Palma base — bareboat skipper backup, skippered charter, catamaran crew, anything in your fleet."
+  },
+  {
+    "to": "office@pitter.com",
+    "domain": "pitter-yachting.com",
+    "company_name": "Pitter Yachtcharter Palma",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "Pitter's Real Club Nautico Palma base is exactly the kind of operation we want to grow into after 3 seasons running daily charters in Croatia."
+  },
+  {
+    "to": "info@sailingtripsmallorca.com",
+    "domain": "sailingtripsmallorca.com",
+    "company_name": "Sailing Trips Mallorca",
+    "category": "daytour",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We're looking for the rest of the 2026 Palma season — day-tour, sunset cruises, charter weeks, anything in your operation. We've spent the past 3 seasons running exactly this kind of work in Croatia."
+  },
+  {
+    "to": "info@maksyboats.com",
+    "domain": "maksyboats.com",
+    "company_name": "MaksyBoats",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "MaksyBoats' luxury fleet caught my eye — that's exactly the level we want to step up to after 3 seasons running daily charters in Croatia."
+  },
+  {
+    "to": "marketing@charteranddreams.com",
+    "domain": "charteranddreams.com",
+    "company_name": "Super Yacht Charter Mallorca (Charter & Dreams)",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We're applying together for any opening across the Super Yacht Charter Mallorca fleet. Available immediately, ready to relocate to Palma now."
+  },
+  {
+    "to": "info@mallorcacatamarans.com",
+    "domain": "mallorcacatamarans.com",
+    "company_name": "Mallorca Catamarans",
+    "category": "daytour",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "Your private tours / events / incentives model is exactly what we want — after 3 seasons of daily charter and guest-transfer work in Croatia, we're ready to bring that experience to Palma."
+  },
+  {
+    "to": "contact@realyachtcharter.com",
+    "domain": "realyachtcharter.com",
+    "company_name": "Real Yacht Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We're looking for work in your Mallorca catamaran / bareboat / skippered operation. Available immediately, ready to relocate to Palma now, and open to long-term role."
+  },
+  {
+    "to": "info@sailpalma.com",
+    "domain": "sailpalma.com",
+    "company_name": "SailPalma by Omare Yachting",
+    "category": "daytour",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We're looking for catamaran day-tour / charter work in Palma for the rest of the 2026 season. Available immediately, ready to relocate to Palma now."
+  },
+  {
+    "to": "enquiries@perfectcharter.com",
+    "domain": "perfectcharter.com",
+    "company_name": "Perfect Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We're looking for work on Sunseeker, Princess, and other motor yachts in your Mallorca fleet. Available immediately, ready to relocate to Palma now."
+  },
+  {
+    "to": "recruitment@bluewateryachting.com",
+    "domain": "bluewateryachting.com",
+    "company_name": "Bluewater Yachting Palma",
+    "category": "crew_agency",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We'd like to register with Bluewater as a Captain + Stewardess couple available for immediate placement. Croatian, ready to relocate to Palma now, and open to any Med charter or private yacht role for the rest of the 2026 season — including short-notice relief — plus the Caribbean winter 2026/27."
+  },
+  {
+    "to": "info@windward-islands.net",
+    "domain": "windward-islands.net",
+    "company_name": "WI Yachts (Windward Islands)",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We're available for immediate placement across your Mediterranean fleet — Palma, Balearic, or wider Med. Open to any charter or private yacht role for the rest of the 2026 season + the Caribbean winter 2026/27."
+  },
+  {
+    "to": "charter@naizur.com",
+    "domain": "naizur.com",
+    "company_name": "Sunset Yacht Space (Naizur)",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We're looking for charter work in Mallorca. Available immediately, ready to relocate to Palma now, open to long-term role through the rest of the 2026 season plus Caribbean winter 2026/27."
+  },
+  {
+    "to": "info@sailingbalearic.com",
+    "domain": "sailingbalearic.com",
+    "company_name": "Sailing Balearic",
+    "category": "flotilla",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We're looking for skipper + deckhand work in the Balearics — flotilla, skippered charter, day-tour, anything in your operation. Available immediately, ready to relocate to Palma now."
+  },
+  {
+    "to": "info@nauticcentermallorca.com",
+    "domain": "nauticcentermallorca.com",
+    "company_name": "Nautic Center Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We're available for charter / skippered boat / day-tour work in your Palma operation. Available immediately, ready to relocate now."
+  },
+  {
+    "to": "info@velamayorca.com",
+    "domain": "velamayorca.com",
+    "company_name": "Vela Mayorca",
+    "category": "daytour",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We're looking for private sailing day-tour work in Palma. Your paella-on-board / snorkel / sunset model is exactly the kind of operation we want — we've spent the past 3 seasons doing similar daily charters in Croatia."
+  },
+  {
+    "to": "info@mallorcapremiumtours.com",
+    "domain": "mallorcapremiumtours.com",
+    "company_name": "Mallorca Premium Tours",
+    "category": "daytour",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We're looking for private boat tour / day-charter work in Mallorca. Your premium tour model is exactly our background — we've spent 3 seasons running this kind of work in Croatia."
+  },
+  {
+    "to": "info@boattripmallorca.com",
+    "domain": "boattripmallorca.com",
+    "company_name": "Boat Trip Mallorca (Cata Simo)",
+    "category": "daytour",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "Your traditional llaüt 'El Gordito' operation caught my eye — I've actually skippered a traditional 17m wooden Croatian vessel (the Blaga, heavy-displacement, no thrusters), so I know exactly the kind of careful handling these boats demand."
+  },
+  {
+    "to": "info@vanallencrew.com",
+    "domain": "vanallencrew.com",
+    "company_name": "Van Allen Crew",
+    "category": "crew_agency",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "intro_line": "We'd like to register with Van Allen as a Captain + Stewardess couple available for immediate placement on superyachts in the Med. Croatian, ready to relocate to Palma now."
+  },
+  {
+    "to": "info@ypicrew.com",
+    "domain": "ypicrew.com",
+    "company_name": "YPI Crew",
+    "category": "crew_agency",
+    "city": "Antibes",
+    "language": "en",
+    "intro_line": "We'd like to register with YPI as a Captain + Stewardess couple available for immediate placement. Croatian, ready to relocate to Antibes or Palma, and open to any Med charter or private yacht role for the rest of 2026 — including short-notice relief — plus the Caribbean winter 2026/27."
+  },
+  {
+    "to": "crew@bluewateryachting.com",
+    "domain": "bluewateryachting.com",
+    "company_name": "Bluewater Yachting Antibes",
+    "category": "crew_agency",
+    "city": "Antibes",
+    "language": "en",
+    "intro_line": "(We're also writing to Natalie at Bluewater Palma separately — open to either base.) We'd like to register with Bluewater Antibes as a Captain + Stewardess couple available for immediate placement."
+  },
+  {
+    "to": "info@wilsonhalligan.com",
+    "domain": "wilsonhalligan.com",
+    "company_name": "Wilsonhalligan",
+    "category": "crew_agency",
+    "city": "Antibes / Hampshire",
+    "language": "en",
+    "intro_line": "We'd like to register with Wilsonhalligan as a Captain + Stewardess couple available for immediate placement on yachts and superyachts."
+  },
+  {
+    "to": "crew@ant.cnyachts.com",
+    "domain": "ant.cnyachts.com",
+    "company_name": "Camper & Nicholsons Crew",
+    "category": "crew_agency",
+    "city": "Antibes",
+    "language": "en",
+    "intro_line": "We'd like to register with Camper & Nicholsons as a Captain + Stewardess couple available for immediate placement. Croatian, ready to relocate to Antibes or Palma now."
+  },
+  {
+    "to": "enquire@hillrobinson.com",
+    "domain": "hillrobinson.com",
+    "company_name": "Hill Robinson",
+    "category": "broker",
+    "city": "Antibes",
+    "language": "en",
+    "intro_line": "We'd like to register with Hill Robinson as a Captain + Stewardess couple available for immediate placement on yachts in your managed fleet or charter management network."
+  },
+  {
+    "to": "antibes@charterminute.com",
+    "domain": "charterminute.com",
+    "company_name": "Charterminute Antibes",
+    "category": "charter",
+    "city": "Antibes",
+    "language": "en",
+    "intro_line": "We're looking for work on yachts in your French Riviera / Corsica fleet — motor yachts, sailing yachts, or catamarans, 40-100ft+."
+  },
+  {
+    "to": "contact@arthaudyachting.com",
+    "domain": "arthaudyachting.com",
+    "company_name": "Arthaud Yachting",
+    "category": "charter",
+    "city": "Antibes",
+    "language": "en",
+    "intro_line": "We're looking for work in your Antibes yacht charter fleet. Available immediately, ready to relocate to the French Riviera now."
+  },
+  {
+    "to": "contact@msc-yachting.com",
+    "domain": "msc-yachting.com",
+    "company_name": "MSC Yachting",
+    "category": "charter",
+    "city": "Antibes / Saint-Tropez",
+    "language": "en",
+    "intro_line": "We're looking for work on your Antibes / Saint-Tropez day charter fleet. Available immediately, ready to relocate to the French Riviera now."
+  },
+  {
+    "to": "jobs@smartcharteribiza.com",
+    "domain": "smartcharteribiza.com",
+    "company_name": "Smart Charter Ibiza",
+    "category": "charter",
+    "city": "Ibiza",
+    "language": "en",
+    "intro_line": "I noticed you have a dedicated jobs email — great, because that's exactly what we are. We're looking for crew positions for the rest of the 2026 Med season. Available immediately, ready to relocate to Ibiza now."
+  },
+  {
+    "to": "info@charterenibiza.com",
+    "domain": "charterenibiza.com",
+    "company_name": "Charter en Ibiza",
+    "category": "charter",
+    "city": "Ibiza",
+    "language": "en",
+    "intro_line": "We're looking for work in your Ibiza / Formentera fleet — yachts, sailboats, motor or sail. Available immediately, ready to relocate to Ibiza now."
+  },
+  {
+    "to": "info@justenjoyibiza.com",
+    "domain": "justenjoyibiza.com",
+    "company_name": "Just Enjoy Ibiza",
+    "category": "charter",
+    "city": "Ibiza",
+    "language": "en",
+    "intro_line": "We're looking for luxury boat charter work in Ibiza. Available immediately, ready to relocate to Ibiza now, open to long-term role through 2026 season + Caribbean winter 2026/27."
+  },
+  {
+    "to": "ibiza@charteranddreams.com",
+    "domain": "charteranddreams.com",
+    "company_name": "Super Yacht Charter Ibiza (Charter & Dreams)",
+    "category": "charter",
+    "city": "Ibiza",
+    "language": "en",
+    "intro_line": "(I'm also writing to your Mallorca team separately — we're open to either island.) We're looking for work across your Ibiza super yacht fleet."
+  },
+  {
+    "to": "sales@amoyachts.com",
+    "domain": "amoyachts.com",
+    "company_name": "AmoYachts Ibiza",
+    "category": "charter",
+    "city": "Ibiza",
+    "language": "en",
+    "intro_line": "We're looking for work in your Ibiza charter operation (20+ years in the business — exactly the kind of established team we want to join)."
+  },
+  {
+    "to": "info@barracudaibiza.com",
+    "domain": "barracudaibiza.com",
+    "company_name": "Barracuda Ibiza",
+    "category": "charter",
+    "city": "Ibiza",
+    "language": "en",
+    "intro_line": "We're looking for skipper + deckhand work on your motorboat/sailboat fleet in Ibiza. Available immediately, ready to relocate now."
+  },
+  {
+    "to": "contact@talamare.com",
+    "domain": "talamare.com",
+    "company_name": "Talamare",
+    "category": "charter",
+    "city": "Cannes / St Tropez / Monaco",
+    "language": "en",
+    "intro_line": "We're looking for work in your French Riviera fleet — Cannes, St Tropez, Monaco day charter or longer. Available immediately, ready to relocate to the Côte d'Azur now."
+  },
+  {
+    "to": "info@bespokeyachtcharter.com",
+    "domain": "bespokeyachtcharter.com",
+    "company_name": "Bespoke Yacht Charter",
+    "category": "charter",
+    "city": "French Riviera",
+    "language": "en",
+    "intro_line": "We're looking for work in your French Riviera operation (Monaco / Cannes / Saint-Tropez). Available immediately, ready to relocate now."
+  },
+  {
+    "to": "yachtandservice@gmail.com",
+    "domain": "yachtandservicesardinia.com",
+    "company_name": "Y&S Exclusive Charter Porto Cervo",
+    "category": "charter",
+    "city": "Porto Cervo / Costa Smeralda",
+    "language": "en",
+    "intro_line": "We're looking for work on your Costa Smeralda fleet. Available immediately, ready to relocate to Sardinia for the rest of the 2026 season + Caribbean winter 2026/27."
+  },
+  {
+    "to": "charter@bluwonder.com",
+    "domain": "bluwonder.com",
+    "company_name": "BW Charter Porto Cervo (Blu Wonder)",
+    "category": "charter",
+    "city": "Porto Cervo",
+    "language": "en",
+    "intro_line": "We're looking for work on your Porto Cervo / Costa Smeralda fleet (30-90ft motor yachts)."
+  },
+  {
+    "to": "info@yachtcharterportocervo.com",
+    "domain": "yachtcharterportocervo.com",
+    "company_name": "Yacht Charter Porto Cervo",
+    "category": "charter",
+    "city": "Porto Cervo",
+    "language": "en",
+    "intro_line": "We're looking for work on your motor yacht and catamaran fleet around Costa Smeralda. Available immediately, ready to relocate to Sardinia now."
+  },
+  {
+    "to": "info@servizinauticisardegna.com",
+    "domain": "servizinauticisardegna.com",
+    "company_name": "Servizi Nautici Sardegna",
+    "category": "daytour",
+    "city": "Porto Cervo",
+    "language": "en",
+    "intro_line": "We're looking for work on your boat rental operation in Maddalena Islands / Costa Smeralda / Southern Corsica. We've spent 3 seasons running similar day-tour and skippered work in Croatia."
+  },
+  {
+    "to": "flavio@sorrentodreamcharter.com",
+    "domain": "sorrentodreamcharter.com",
+    "company_name": "Sorrento Dream Charter",
+    "category": "daytour",
+    "city": "Sorrento / Amalfi",
+    "language": "en",
+    "intro_line": "We're looking for work on your Sorrento / Amalfi Coast operation — Capri, Positano, Ischia, Procida day tours and longer. Your model (English-speaking skippers + professional staff for premium guests) is exactly what we've spent 3 seasons doing in Croatia."
+  },
+  {
+    "to": "info@capaseccayacht.it",
+    "domain": "capaseccayacht.it",
+    "company_name": "Capasecca Yacht",
+    "category": "charter",
+    "city": "Sorrento / Amalfi",
+    "language": "en",
+    "intro_line": "We're looking for work on your Sorrento / Amalfi Coast fleet (century of family history — exactly the kind of established operation we want to grow into)."
+  },
+  {
+    "to": "charters@bviyc.com",
+    "domain": "bviyachtcharters.com",
+    "company_name": "BVI Yacht Charters",
+    "category": "charter",
+    "city": "Tortola",
+    "language": "en",
+    "intro_line": "We're looking to position for the BVI winter 2026/27 season — and available immediately for any Med relief work in the meantime. We'd love to work on your crewed catamarans / monohulls out of Road Town."
+  },
+  {
+    "to": "info@blueoystersailing.com",
+    "domain": "blueoystersailing.com",
+    "company_name": "Blue Oyster Sailing / Barcelona Sailing School",
+    "category": "charter",
+    "city": "Costa Brava / Barcelona",
+    "language": "en",
+    "intro_line": "We're looking for work on your Costa Brava / Palamos charter fleet. Available immediately, ready to relocate to Catalonia for the rest of the 2026 Med season + Caribbean winter 2026/27."
+  },
+  {
+    "to": "sara@crewandconcierge.com",
+    "domain": "crewandconcierge.com",
+    "company_name": "Crew & Concierge",
+    "category": "crew_agency",
+    "city": "Antibes / Palma",
+    "language": "en",
+    "intro_line": "We'd like to register with Crew & Concierge as a Captain + Stewardess couple available for immediate placement. Croatian, ready to relocate to Antibes or Palma now."
+  },
+  {
+    "to": "yachtcharter@kavas.com",
+    "domain": "kavas.com",
+    "company_name": "Kavas Yachting",
+    "category": "charter",
+    "city": "Athens / Lefkas / Kos",
+    "language": "en",
+    "intro_line": "We're looking for work on your fleet (50+ yachts across Athens / Lefkas / Kos — exactly the scale we want to step into after 3 seasons in Croatia)."
+  },
+  {
+    "to": "daniel@dmayachting.com",
+    "domain": "dmayachting.com",
+    "company_name": "DMA Yachting / My Greek Charter",
+    "category": "broker",
+    "city": "Greece",
+    "language": "en",
+    "intro_line": "We're looking for work via your Greek charter network. Available immediately, ready to relocate to Athens or any Greek base for the rest of 2026 + Caribbean winter 2026/27."
+  },
+  {
+    "to": "grenada@nsscharter.com",
+    "domain": "nsscharter.com",
+    "company_name": "NSS Charter Grenada",
+    "category": "charter",
+    "city": "Grenada",
+    "language": "en",
+    "intro_line": "We're looking to position for the Caribbean winter 2026/27 season. NSS Grenada caught my eye for your bareboat + skipper combined model — exactly the kind of operation we want to join."
+  },
+  {
+    "to": "info@svgyachting.com",
+    "domain": "svgyachting.com",
+    "company_name": "SVG Yachting Grenadines",
+    "category": "charter",
+    "city": "Grenadines / St Lucia / St Vincent",
+    "language": "en",
+    "intro_line": "We're looking to position for the Caribbean winter 2026/27 season — Martinique / St Lucia / St Vincent / Bequia / Canouan / Grenada range. Available immediately for any Med relief work in the meantime."
+  },
+  {
+    "to": "charter@nautilusyachting.com",
+    "domain": "nautilusyachting.com",
+    "company_name": "Nautilus Yachting Antigua",
+    "category": "charter",
+    "city": "Antigua / Med",
+    "language": "en",
+    "intro_line": "We're available for placement across your fleet — Med summer 2026 (Greece, Croatia, Med) and/or Antigua winter 2026/27."
+  },
+  {
+    "to": "info@bodtur.com",
+    "domain": "bodtur.com",
+    "company_name": "Bodtur Bodrum",
+    "category": "charter",
+    "city": "Bodrum",
+    "language": "en",
+    "intro_line": "We're interested in working on your gulet fleet in Bodrum. We've spent 3 seasons running daily charters on traditional wooden vessels in Croatia (incl. a 17m heavy-displacement Blaga with no thrusters) — that experience translates directly to gulet handling."
+  },
+  {
+    "to": "info@maltacharters.com",
+    "domain": "maltacharters.com",
+    "company_name": "Malta Charters",
+    "category": "charter",
+    "city": "Valletta / Kalkara",
+    "language": "en",
+    "intro_line": "We're looking for work on your Kalkara Marina fleet (sailing yachts, catamarans, RIBs — exactly the range we want)."
+  },
+  {
+    "to": "info@yachtinmalta.com",
+    "domain": "yachtinmalta.com",
+    "company_name": "Yacht in Malta",
+    "category": "charter",
+    "city": "Malta",
+    "language": "en",
+    "intro_line": "We're looking for skippered charter work in Malta. Available immediately, ready to relocate now."
+  },
+  {
+    "to": "info@boatchartermenorca.com",
+    "domain": "boatchartermenorca.com",
+    "company_name": "Boat Charter Menorca",
+    "category": "charter",
+    "city": "Mahón / Menorca",
+    "language": "en",
+    "intro_line": "We're looking for work on your Mahón fleet (6-21m boats — exactly the range we've handled in Croatia)."
+  },
+  {
+    "to": "info@maramamenorca.com",
+    "domain": "maramamenorca.com",
+    "company_name": "Marama Menorca",
+    "category": "daytour",
+    "city": "Menorca",
+    "language": "en",
+    "intro_line": "We're looking for work on your private boat-with-skipper operation in Menorca. Your model (skippered private trips around Menorca) is exactly what we've spent 3 seasons doing in Croatia."
+  },
+  {
+    "to": "reservas@barcosenmenorca.com",
+    "domain": "barcosenmenorca.com",
+    "company_name": "Menorca & Mar Charter",
+    "category": "charter",
+    "city": "Mahón",
+    "language": "en",
+    "intro_line": "We're looking for work on your Mahón fleet (35 boats — exactly the scale of operation we want)."
+  },
+  {
+    "to": "info@vdhy.com",
+    "domain": "vdhy.com",
+    "company_name": "Von der Heyden Yachting Cannes",
+    "category": "charter",
+    "city": "Cannes",
+    "language": "en",
+    "intro_line": "We're looking for work on your Cannes / French Riviera fleet — fully crewed charters with skipper exactly our profile."
+  },
+  {
+    "to": "info@funseaker.com",
+    "domain": "funseaker.com",
+    "company_name": "Funseaker St Martin",
+    "category": "charter",
+    "city": "St Martin / Anguilla",
+    "language": "en",
+    "intro_line": "We're looking to position for the St Martin / Anguilla winter 2026/27 season. Funseaker's superyacht-grade service + premium water toys model is exactly the level we want to step up to."
+  },
+  {
+    "to": "contact@caribbeanmarines.com",
+    "domain": "caribbeanmarines.com",
+    "company_name": "Caribbean Marines St Martin",
+    "category": "charter",
+    "city": "St Martin",
+    "language": "en",
+    "intro_line": "We're looking to position for the St Martin / Anguilla / St Barths winter 2026/27 season. As one of the oldest charter operators on the island, founded by passionate captains, you're exactly the kind of operation we want to join."
+  },
+  {
+    "to": "captainjoboat@gmail.com",
+    "domain": "captainjoboatcharter.com",
+    "company_name": "Captain Jo Boat Charter",
+    "category": "charter",
+    "city": "St Maarten",
+    "language": "en",
+    "intro_line": "We're looking for work in the St Maarten / St Martin Caribbean area. Available for the winter 2026/27 season + any Med relief work in the meantime."
+  },
+  {
+    "to": "booking@yiss.it",
+    "domain": "yiss.it",
+    "company_name": "Yachting in Sardinia",
+    "category": "charter",
+    "city": "Marina di Portisco / Olbia",
+    "language": "en",
+    "intro_line": "We're looking for work at your Marina di Portisco / Olbia base for the rest of the 2026 season."
+  },
+  {
+    "to": "info@sardiniaboatrentals.com",
+    "domain": "sardiniaboatrentals.com",
+    "company_name": "Sardinia Boat Rentals Olbia",
+    "category": "charter",
+    "city": "Olbia",
+    "language": "en",
+    "intro_line": "We're looking for work on your Olbia luxury yacht/catamaran fleet."
+  },
+  {
+    "to": "info@yachtchartersitaly.com",
+    "domain": "yachtchartersitaly.com",
+    "company_name": "Yacht Charters Italy",
+    "category": "charter",
+    "city": "Sicily / Italy",
+    "language": "en",
+    "intro_line": "We're looking for work on your Sicily / Italian fleet (Palermo, Catania, broader Italy)."
+  },
+  {
+    "to": "agency@scsyachting.com",
+    "domain": "scsyachting.com",
+    "company_name": "SCS Yachting",
+    "category": "crew_agency",
+    "city": "Genoa / Porto Cervo",
+    "language": "en",
+    "intro_line": "We'd like to register with SCS as a Captain + Stewardess couple available for immediate placement. Croatian, ready to relocate to Genoa, Porto Cervo, or any Med base."
+  },
+  {
+    "to": "info@contactyachts.com",
+    "domain": "contactyachts.com",
+    "company_name": "Contact Yachts Marmaris",
+    "category": "charter",
+    "city": "Marmaris",
+    "language": "en",
+    "intro_line": "We're looking for work on your Marmaris fleet. Available immediately, ready to relocate to Turkey now."
+  },
+  {
+    "to": "info@sailionian.com",
+    "domain": "sailionian.com",
+    "company_name": "Sail Ionian Lefkada",
+    "category": "charter",
+    "city": "Lefkada",
+    "language": "en",
+    "intro_line": "We're looking for work on your Vliho / Lefkada operation (20+ years running Ionian charters — exactly the kind of established team we want to join)."
+  },
+  {
+    "to": "info@sevensailsgreece.com",
+    "domain": "sevensailsgreece.com",
+    "company_name": "Seven Sails Lefkas",
+    "category": "charter",
+    "city": "Lefkas / Athens",
+    "language": "en",
+    "intro_line": "We're looking for work on your Lefkas-based skippered / crewed fleet (yachts, catamarans, motor yachts — exactly the range we've handled in Croatia)."
+  },
+  {
+    "to": "info@ionionsails.com",
+    "domain": "ionionsails.com",
+    "company_name": "Ionion Sails Lefkada",
+    "category": "charter",
+    "city": "Lefkada",
+    "language": "en",
+    "intro_line": "We're looking for skipper + deckhand work on your Lefkada-based skippered charter operation. Your model (multi-lingual skippers, deep local Ionian knowledge) translates directly from what we've done in Croatia."
+  },
+  {
+    "to": "info@sailboatchartergreece.com",
+    "domain": "sailboatchartergreece.com",
+    "company_name": "Sailboat Charter Greece (Cyclades)",
+    "category": "charter",
+    "city": "Cyclades / Mykonos / Santorini",
+    "language": "en",
+    "intro_line": "We're looking for skippered charter work in the Cyclades (Mykonos / Santorini). Available immediately, ready to relocate to Greece for the rest of the 2026 season."
+  },
+  {
+    "to": "tim@quaygroup.com",
+    "domain": "quaygroup.com",
+    "company_name": "Quay Crew",
+    "category": "crew_agency",
+    "city": "Antibes / Poole",
+    "language": "en",
+    "intro_line": "We'd like to register with Quay Crew as a Captain + Stewardess couple available for immediate placement on charter or private yachts. Croatian, ready to relocate to Antibes, Palma, or anywhere the position is."
+  },
+  {
+    "to": "corly@superyachtcrewplacement.com",
+    "domain": "superyachtcrewplacement.com",
+    "company_name": "Super Yacht Crew Placement",
+    "category": "crew_agency",
+    "city": "Fort Lauderdale",
+    "language": "en",
+    "intro_line": "We'd like to register with SYCP as a Captain + Stewardess couple available for immediate placement on charter or private yachts. Croatian, ready to relocate to Fort Lauderdale, Caribbean, or wherever the position takes us."
+  },
+  {
+    "to": "charter@yacht-in.com",
+    "domain": "yacht-in.com",
+    "company_name": "Yacht IN Marseille",
+    "category": "charter",
+    "city": "Marseille",
+    "language": "en",
+    "intro_line": "We're looking for work on your Marseille / French Riviera superyacht fleet. Available immediately, ready to relocate now."
+  },
+  {
+    "to": "yachts@nicholsoncharters.com",
+    "domain": "nicholsoncharters.com",
+    "company_name": "Nicholson Yacht Charters Antigua",
+    "category": "charter",
+    "city": "English Harbour, Antigua",
+    "language": "en",
+    "intro_line": "We're positioning for the Caribbean winter 2026/27 season. English Harbour / Falmouth Harbour is the dream base, and your operation (yacht charter + management + crew recruitment + relief captain network) is exactly the kind of established team we want to join."
+  },
+  {
+    "to": "info@capriyachtcharter.com",
+    "domain": "capriyachtcharter.com",
+    "company_name": "Capri Yacht Charter",
+    "category": "daytour",
+    "city": "Capri / Amalfi",
+    "language": "en",
+    "intro_line": "We're looking for day-charter work in Capri / Amalfi / Sorrento area. Your daily route model (Capri-Amalfi-Sorrento-Ischia-Procida-Pontine) is very close to what we've been doing in Croatia (Split-Hvar-Vis-Biševo-Brač-Korčula)."
+  },
+  {
+    "to": "info@capriluxuryboats.com",
+    "domain": "capriluxuryboats.com",
+    "company_name": "Capri Luxury Boats",
+    "category": "daytour",
+    "city": "Capri / Tyrrhenian",
+    "language": "en",
+    "intro_line": "We're looking for work on your Capri luxury concierge boat operation. Your tailored-concierge model is exactly what we want — luxury day tours / transfers / private cruises through the Tyrrhenian."
+  },
+  {
+    "to": "info@capriboatyacht.com",
+    "domain": "capriboatyacht.com",
+    "company_name": "Capri Boat Yacht",
+    "category": "daytour",
+    "city": "Capri / Amalfi",
+    "language": "en",
+    "intro_line": "We're looking for skipper + deckhand work in Capri / Amalfi Coast. Available immediately, ready to relocate to Italy now."
+  },
+  {
+    "to": "info@marbellaboatcharter.com",
+    "domain": "marbellaboatcharter.com",
+    "company_name": "Marbella Boat Charter",
+    "category": "charter",
+    "city": "Puerto Banús / Marbella",
+    "language": "en",
+    "intro_line": "We're looking for work on your Puerto Banús / Marbella / Estepona / Sotogrande operation. Available immediately, ready to relocate to Costa del Sol now."
+  },
+  {
+    "to": "info@maiafair.com",
+    "domain": "maiafair.com",
+    "company_name": "Maia Fair / Marbella Luxury Boat Charter",
+    "category": "charter",
+    "city": "Puerto Banús / Marbella",
+    "language": "en",
+    "intro_line": "We're looking for work on your Puerto Banús luxury boat fleet (premium yacht charter + water toys — Seabob, jet skis, paddleboards — exactly the level of operation we want to step into)."
+  },
+  {
+    "to": "info@algarveyacht.com",
+    "domain": "algarveyacht.com",
+    "company_name": "Algarve Yachts",
+    "category": "charter",
+    "city": "Algarve / Portugal",
+    "language": "en",
+    "intro_line": "We're looking for skippered yacht charter work in the Algarve / Portugal. Available immediately, ready to relocate to Portugal now."
+  },
+  {
+    "to": "info@corfuyachting.com",
+    "domain": "corfuyachting.com",
+    "company_name": "Corfu Yachting",
+    "category": "charter",
+    "city": "Corfu / Ionian",
+    "language": "en",
+    "intro_line": "We're looking for work on your Ionian fleet (Corfu base + island-hopping in Ionian — exactly our wheelhouse from 3 seasons in Central Dalmatia)."
+  },
+  {
+    "to": "istion@istion.com",
+    "domain": "istion.com",
+    "company_name": "Istion Yachting",
+    "category": "charter",
+    "city": "Kos / Rhodes / Corfu / Lefkas / Preveza",
+    "language": "en",
+    "intro_line": "We're looking for work across your Greek base network — Kos, Rhodes (Dodecanese), Corfu, Lefkas, Preveza (Ionian). Multi-base operation is exactly what we want."
+  },
+  {
+    "to": "contact@island-sailing.com",
+    "domain": "island-sailing.com",
+    "company_name": "Island Sailing Greece",
+    "category": "charter",
+    "city": "Greece",
+    "language": "en",
+    "intro_line": "We're looking for skippered yacht charter work in Greece. Available immediately, ready to relocate to any Greek base now."
+  },
+  {
+    "to": "marcy@njcrew.com",
+    "domain": "njcrew.com",
+    "company_name": "Northrop & Johnson Crew Services",
+    "category": "crew_agency",
+    "city": "Fort Lauderdale / Antibes",
+    "language": "en",
+    "intro_line": "We'd like to register with N&J as a Captain + Stewardess couple available for immediate placement. Croatian, ready to relocate to Fort Lauderdale, Antibes, Palma, or anywhere the position takes us."
+  },
+  {
+    "to": "pascal@atiyachts.com",
+    "domain": "atiyachts.com",
+    "company_name": "ATI Yachts Monaco",
+    "category": "charter",
+    "city": "Monaco",
+    "language": "en",
+    "intro_line": "We're looking for work on your Monaco fleet. Available immediately, ready to relocate to Monaco / Côte d'Azur now."
+  },
+  {
+    "to": "booking@southernskyyachtcharters.com",
+    "domain": "southernskyyachtcharters.com",
+    "company_name": "Southern Sky Bahamas",
+    "category": "charter",
+    "city": "Bahamas",
+    "language": "en",
+    "intro_line": "We're positioning for the Bahamas winter 2026/27 season. Your luxury Bahamas charter operation is exactly the kind of role we want."
+  },
+  {
+    "to": "yachtcharters@songsinthesails.com",
+    "domain": "songsinthesails.com",
+    "company_name": "Songs in the Sails",
+    "category": "broker",
+    "city": "Caribbean / Med",
+    "language": "en",
+    "intro_line": "We're looking for work across your boutique Caribbean / Mediterranean fleet. Available immediately for the rest of the 2026 Med season + Bahamas winter 2026/27."
+  },
+  {
+    "to": "info@skiathosyachting.gr",
+    "domain": "skiathosyachting.gr",
+    "company_name": "Skiathos Yachting",
+    "category": "charter",
+    "city": "Skiathos / Sporades",
+    "language": "en",
+    "intro_line": "We're looking for work on your Sporades fleet (Skiathos / Skopelos / Alonissos — same kind of island-hopping operation we know from Central Dalmatia)."
+  },
+  {
+    "to": "info@ofblue.es",
+    "domain": "ofblue.es",
+    "company_name": "Ofblue Estepona",
+    "category": "charter",
+    "city": "Estepona / Costa del Sol",
+    "language": "en",
+    "intro_line": "We're looking for work on your Estepona / Sotogrande / Puerto Banús / Marbella coast operation."
+  },
+  {
+    "to": "skipper@yachtingsotogrande.com",
+    "domain": "yachtingsotogrande.com",
+    "company_name": "Yachting Sotogrande",
+    "category": "charter",
+    "city": "Sotogrande",
+    "language": "en",
+    "intro_line": "We're looking for skipper + deckhand work at your Puerto de Sotogrande operation. Your RYA Training Centre status is a great fit — I hold the RYA Yachtmaster myself."
+  },
+  {
+    "to": "robert@sailingthestrait.com",
+    "domain": "sailingthestrait.com",
+    "company_name": "Sailing the Strait Estepona",
+    "category": "charter",
+    "city": "Estepona",
+    "language": "en",
+    "intro_line": "We're looking for skipper + deckhand work on your Estepona / Strait of Gibraltar private sail day charter operation."
+  },
+  {
+    "to": "charter@superyachtscroatia.com",
+    "domain": "superyachtscroatia.com",
+    "company_name": "SuperYachts Croatia",
+    "category": "broker",
+    "city": "Croatia (international referral)",
+    "language": "en",
+    "intro_line": "We're a Croatian Captain + Stewardess couple looking to step beyond local Croatian charter work into international placements through your network. As 22 local yachting specialists, you must regularly hear of international captains and yacht managers looking for Croatian-speaking, English-fluent crew."
+  },
+  {
+    "to": "info@chapmanyachting.com",
+    "domain": "chapmanyachting.com",
+    "company_name": "Chapman Yachting Sydney",
+    "category": "charter",
+    "city": "Sydney / Gold Coast",
+    "language": "en",
+    "intro_line": "We're interested in working on your Sydney / Gold Coast operation — Aus southern-hemisphere season aligns perfectly with Med off-season (Oct-March), which would let us work year-round between Med summer and Aus summer."
+  },
+  {
+    "to": "crewed@athenian-yachts.gr",
+    "domain": "athenian-yachts.gr",
+    "company_name": "Athenian Yachts (Crewed)",
+    "category": "charter",
+    "city": "Alimos / Athens",
+    "language": "en",
+    "intro_line": "We're looking for work on your Alimos crewed yacht fleet. Available immediately, ready to relocate to Athens / Alimos Marina for the rest of the 2026 season + Caribbean winter 2026/27."
+  },
+  {
+    "to": "info@charterportofino.com",
+    "domain": "charterportofino.com",
+    "company_name": "Charter Portofino",
+    "category": "charter",
+    "city": "Portofino",
+    "language": "en"
+  },
+  {
+    "to": "info@portofinoyachtcharter.it",
+    "domain": "portofinoyachtcharter.it",
+    "company_name": "Lux Portofino Yacht Charter",
+    "category": "charter",
+    "city": "Portofino / Santa Margherita",
+    "language": "en"
+  },
+  {
+    "to": "info@ammcharter.com",
+    "domain": "ammcharter.com",
+    "company_name": "AMM Charter",
+    "category": "charter",
+    "city": "Santa Margherita / Portofino",
+    "language": "en"
+  },
+  {
+    "to": "ask@sicilyboatrentals.com",
+    "domain": "sicilyboatrentals.com",
+    "company_name": "Sicily Boat Rentals",
+    "category": "charter",
+    "city": "Portorosa / Catania / Palermo",
+    "language": "en"
+  },
+  {
+    "to": "info@mgv-yachts-cruises.com",
+    "domain": "mgv-yachts-cruises.com",
+    "company_name": "MGV Yachts Cruises",
+    "category": "charter",
+    "city": "Heraklion / Crete",
+    "language": "en"
+  },
+  {
+    "to": "Booking@ChaniaPrivateBoats.com",
+    "domain": "chaniaprivateboats.com",
+    "company_name": "Chania Private Boats",
+    "category": "charter",
+    "city": "Chania / Crete",
+    "language": "en"
+  },
+  {
+    "to": "info@cretan-yachts.gr",
+    "domain": "cretan-yachts.gr",
+    "company_name": "Cretan Yachts",
+    "category": "charter",
+    "city": "Heraklion / Crete",
+    "language": "en"
+  },
+  {
+    "to": "info@rivierayachtcharter.com",
+    "domain": "rivierayachtcharter.com",
+    "company_name": "Riviera Yacht Charter",
+    "category": "charter",
+    "city": "Saint-Tropez/Cannes/Nice/Monaco",
+    "language": "en"
+  }
+]

@@ -1,0 +1,26 @@
+SUBJECT_VARIANTS:
+- Registering as available skipper + deckhand pair — {{ tier_label }}
+- Skipper (RYA Yachtmaster) + deckhand (D2) — available for placement
+- Croatian couple, available immediately for skipper + deckhand placement
+- Skipper + stew/deckhand pair — registering with {{ company_name }}
+
+---
+BODY:
+Hi {{ contact_first_name | default('Crew Team') }},
+
+{{ personalization }}
+
+We'd like to register as a skipper + deckhand pair available for immediate placement through {{ company_name }}.
+
+- **{{ skipper_full_name }}** — RYA Yachtmaster, {{ skipper_experience_years }} years experience on {{ vessel_types_short }}. Languages: {{ skipper_languages }}.
+- **{{ deckhand_full_name }}** — Croatian D2 (Boatmaster D2), {{ deckhand_experience_years }} years daily-tour deckhand + hostess experience. Languages: {{ deckhand_languages }}.
+
+We're available for the rest of the 2026 Med season (including short-notice relief) and the 2026/27 Caribbean winter season. Open to Palma de Mallorca, Balearic, Italy, French Riviera, or Caribbean placements.
+
+Joint CV attached. Please let us know if you'd like additional documents (passports, certificates, references, ENG1 if needed) and what your registration process looks like.
+
+Best,
+{{ skipper_full_name }}
+{{ skipper_phone }} (WhatsApp) · {{ skipper_email }}
+
+— Reply STOP to opt out.

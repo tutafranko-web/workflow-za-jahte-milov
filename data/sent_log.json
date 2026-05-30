@@ -1,0 +1,520 @@
+{
+  "sent": [
+    {
+      "to": "anja.eckart@fys.de",
+      "domain": "fysbaleares.es",
+      "company_name": "FYS Mallorca",
+      "subject": "Captain + Stewardess couple — available for FYS Mallorca",
+      "date": "2026-05-24T12:41:41.951094+00:00",
+      "status": "sent",
+      "message_id": "<177962650194.16244.9058291896512174322@gmail.com>"
+    },
+    {
+      "to": "info@boatchartermallorca.com",
+      "domain": "boatchartermallorca.com",
+      "company_name": "Boat Charter Mallorca",
+      "subject": "Captain + Stewardess couple — available for Boat Charter Mallorca",
+      "date": "2026-05-24T12:43:14.113449+00:00",
+      "status": "sent",
+      "message_id": "<177962659410.16244.5670920733921373402@gmail.com>"
+    },
+    {
+      "to": "palma@burgessyachts.com",
+      "domain": "burgessyachts.com",
+      "company_name": "Burgess Yachts Palma",
+      "subject": "Captain + Stewardess couple — available for Burgess Yachts Palma",
+      "date": "2026-05-24T12:44:46.104775+00:00",
+      "status": "sent",
+      "message_id": "<177962668609.16244.1278279332828026218@gmail.com>"
+    },
+    {
+      "to": "palma@fraseryachts.com",
+      "domain": "fraseryachts.com",
+      "company_name": "Fraser Yachts Palma",
+      "subject": "Captain + Stewardess couple — available for Fraser Yachts Palma",
+      "date": "2026-05-24T12:45:29.192562+00:00",
+      "status": "sent",
+      "message_id": "<177962672918.28468.15470960133783889479@gmail.com>"
+    },
+    {
+      "to": "spain@navigare-yachting.com",
+      "domain": "navigare-yachting.com",
+      "company_name": "Navigare Yachting Spain",
+      "subject": "Captain + Stewardess couple — available for Navigare Yachting Spain",
+      "date": "2026-05-24T12:50:30.907357+00:00",
+      "status": "sent",
+      "message_id": "<177962703089.28468.12719129288936862881@gmail.com>"
+    },
+    {
+      "to": "office@pitter.com",
+      "domain": "pitter-yachting.com",
+      "company_name": "Pitter Yachtcharter Palma",
+      "subject": "Captain + Stewardess couple — available for Pitter Yachtcharter Palma",
+      "date": "2026-05-24T12:55:32.805329+00:00",
+      "status": "bounce_delayed",
+      "message_id": "<177962733279.28468.16554369408231602889@gmail.com>",
+      "bounce_reason": "Temporary delivery problem (retrying 46h)"
+    },
+    {
+      "to": "info@sailingtripsmallorca.com",
+      "domain": "sailingtripsmallorca.com",
+      "company_name": "Sailing Trips Mallorca",
+      "subject": "Captain + Stewardess couple — available for Sailing Trips Mallorca",
+      "date": "2026-05-24T13:00:34.632800+00:00",
+      "status": "sent",
+      "message_id": "<177962763462.28468.16394315446035008490@gmail.com>"
+    },
+    {
+      "to": "info@maksyboats.com",
+      "domain": "maksyboats.com",
+      "company_name": "MaksyBoats",
+      "subject": "Captain + Stewardess couple — available for MaksyBoats",
+      "date": "2026-05-24T13:05:36.733671+00:00",
+      "status": "sent",
+      "message_id": "<177962793672.28468.17349365446905174860@gmail.com>"
+    },
+    {
+      "to": "marketing@charteranddreams.com",
+      "domain": "charteranddreams.com",
+      "company_name": "Super Yacht Charter Mallorca (Charter & Dreams)",
+      "subject": "Captain + Stewardess couple — available for Super Yacht Charter Mallorca (Charter & Dreams)",
+      "date": "2026-05-24T13:10:38.478968+00:00",
+      "status": "sent",
+      "message_id": "<177962823846.28468.9688421126167218891@gmail.com>"
+    },
+    {
+      "to": "info@mallorcacatamarans.com",
+      "domain": "mallorcacatamarans.com",
+      "company_name": "Mallorca Catamarans",
+      "subject": "Captain + Stewardess couple — available for Mallorca Catamarans",
+      "date": "2026-05-24T13:15:40.662695+00:00",
+      "status": "sent",
+      "message_id": "<177962854064.28468.7778546594872605137@gmail.com>"
+    },
+    {
+      "to": "contact@realyachtcharter.com",
+      "domain": "realyachtcharter.com",
+      "company_name": "Real Yacht Charter",
+      "subject": "Captain + Stewardess couple — available for Real Yacht Charter",
+      "date": "2026-05-24T13:20:42.922843+00:00",
+      "status": "sent",
+      "message_id": "<177962884290.28468.16982851744091325205@gmail.com>"
+    },
+    {
+      "to": "info@sailpalma.com",
+      "domain": "sailpalma.com",
+      "company_name": "SailPalma by Omare Yachting",
+      "subject": "Captain + Stewardess couple — available for SailPalma by Omare Yachting",
+      "date": "2026-05-24T13:25:44.848835+00:00",
+      "status": "sent",
+      "message_id": "<177962914484.28468.16595744846208285127@gmail.com>"
+    },
+    {
+      "to": "enquiries@perfectcharter.com",
+      "domain": "perfectcharter.com",
+      "company_name": "Perfect Charter",
+      "subject": "Captain + Stewardess couple — available for Perfect Charter",
+      "date": "2026-05-24T13:30:46.790695+00:00",
+      "status": "sent",
+      "message_id": "<177962944678.28468.12405650113580116971@gmail.com>"
+    },
+    {
+      "to": "recruitment@bluewateryachting.com",
+      "domain": "bluewateryachting.com",
+      "company_name": "Bluewater Yachting Palma",
+      "subject": "Captain + Stewardess couple — available for Bluewater Yachting Palma",
+      "date": "2026-05-24T13:35:48.850742+00:00",
+      "status": "sent",
+      "message_id": "<177962974884.28468.10090206076897754278@gmail.com>"
+    },
+    {
+      "to": "info@windward-islands.net",
+      "domain": "windward-islands.net",
+      "company_name": "WI Yachts (Windward Islands)",
+      "subject": "Captain + Stewardess couple — available for WI Yachts (Windward Islands)",
+      "date": "2026-05-24T13:40:50.835143+00:00",
+      "status": "sent",
+      "message_id": "<177963005082.28468.4864666890162444860@gmail.com>"
+    },
+    {
+      "to": "charter@naizur.com",
+      "domain": "naizur.com",
+      "company_name": "Sunset Yacht Space (Naizur)",
+      "subject": "Captain + Stewardess couple — available for Sunset Yacht Space (Naizur)",
+      "date": "2026-05-24T13:45:53.025404+00:00",
+      "status": "sent",
+      "message_id": "<177963035301.28468.12330432244108767664@gmail.com>"
+    },
+    {
+      "to": "info@sailingbalearic.com",
+      "domain": "sailingbalearic.com",
+      "company_name": "Sailing Balearic",
+      "subject": "Captain + Stewardess couple — available for Sailing Balearic",
+      "date": "2026-05-24T13:50:54.848274+00:00",
+      "status": "sent",
+      "message_id": "<177963065483.28468.7002567512926690642@gmail.com>"
+    },
+    {
+      "to": "info@nauticcentermallorca.com",
+      "domain": "nauticcentermallorca.com",
+      "company_name": "Nautic Center Mallorca",
+      "subject": "Captain + Stewardess couple — available for Nautic Center Mallorca",
+      "date": "2026-05-24T13:55:57.067548+00:00",
+      "status": "sent",
+      "message_id": "<177963095705.28468.486125836457443205@gmail.com>"
+    },
+    {
+      "to": "info@velamayorca.com",
+      "domain": "velamayorca.com",
+      "company_name": "Vela Mayorca",
+      "subject": "Captain + Stewardess couple — available for Vela Mayorca",
+      "date": "2026-05-24T14:00:59.070637+00:00",
+      "status": "sent",
+      "message_id": "<177963125904.28468.4073480084242655471@gmail.com>"
+    },
+    {
+      "to": "info@mallorcapremiumtours.com",
+      "domain": "mallorcapremiumtours.com",
+      "company_name": "Mallorca Premium Tours",
+      "subject": "Captain + Stewardess couple — available for Mallorca Premium Tours",
+      "date": "2026-05-24T14:06:01.363921+00:00",
+      "status": "sent",
+      "message_id": "<177963156135.28468.15937832429807137803@gmail.com>"
+    },
+    {
+      "to": "info@boattripmallorca.com",
+      "domain": "boattripmallorca.com",
+      "company_name": "Boat Trip Mallorca (Cata Simo)",
+      "subject": "Captain + Stewardess couple — available for Boat Trip Mallorca (Cata Simo)",
+      "date": "2026-05-26T13:37:39.942663+00:00",
+      "status": "sent",
+      "message_id": "<177980265993.9236.7871860800481088662@gmail.com>"
+    },
+    {
+      "to": "info@vanallencrew.com",
+      "domain": "vanallencrew.com",
+      "company_name": "Van Allen Crew",
+      "subject": "Captain + Stewardess couple — available for Van Allen Crew",
+      "date": "2026-05-26T13:42:43.747970+00:00",
+      "status": "sent",
+      "message_id": "<177980296373.9236.10430620032841859591@gmail.com>"
+    },
+    {
+      "to": "info@ypicrew.com",
+      "domain": "ypicrew.com",
+      "company_name": "YPI Crew",
+      "subject": "Captain + Stewardess couple — available for YPI Crew",
+      "date": "2026-05-26T13:47:46.180656+00:00",
+      "status": "sent",
+      "message_id": "<177980326617.9236.12809445201886131013@gmail.com>"
+    },
+    {
+      "to": "crew@bluewateryachting.com",
+      "domain": "bluewateryachting.com",
+      "company_name": "Bluewater Yachting Antibes",
+      "subject": "Captain + Stewardess couple — available for Bluewater Yachting Antibes",
+      "date": "2026-05-26T13:52:48.291982+00:00",
+      "status": "sent",
+      "message_id": "<177980356828.9236.7676531808990672281@gmail.com>"
+    },
+    {
+      "to": "info@wilsonhalligan.com",
+      "domain": "wilsonhalligan.com",
+      "company_name": "Wilsonhalligan",
+      "subject": "Captain + Stewardess couple — available for Wilsonhalligan",
+      "date": "2026-05-26T13:57:50.238947+00:00",
+      "status": "sent",
+      "message_id": "<177980387022.9236.4003413893481699552@gmail.com>"
+    },
+    {
+      "to": "crew@ant.cnyachts.com",
+      "domain": "ant.cnyachts.com",
+      "company_name": "Camper & Nicholsons Crew",
+      "subject": "Captain + Stewardess couple — available for Camper & Nicholsons Crew",
+      "date": "2026-05-26T14:15:45.523435+00:00",
+      "status": "sent",
+      "message_id": "<177980494551.9236.17639636403898094310@gmail.com>"
+    },
+    {
+      "to": "enquire@hillrobinson.com",
+      "domain": "hillrobinson.com",
+      "company_name": "Hill Robinson",
+      "subject": "Captain + Stewardess couple — available for Hill Robinson",
+      "date": "2026-05-26T14:21:01.029853+00:00",
+      "status": "sent",
+      "message_id": "<177980526102.9236.15861513268118410261@gmail.com>"
+    },
+    {
+      "to": "antibes@charterminute.com",
+      "domain": "charterminute.com",
+      "company_name": "Charterminute Antibes",
+      "subject": "Captain + Stewardess couple — available for Charterminute Antibes",
+      "date": "2026-05-26T14:26:25.957180+00:00",
+      "status": "sent",
+      "message_id": "<177980558595.9236.6576836297366037687@gmail.com>"
+    },
+    {
+      "to": "contact@arthaudyachting.com",
+      "domain": "arthaudyachting.com",
+      "company_name": "Arthaud Yachting",
+      "subject": "Captain + Stewardess couple — available for Arthaud Yachting",
+      "date": "2026-05-26T14:31:32.293850+00:00",
+      "status": "sent",
+      "message_id": "<177980589228.9236.11846207897431302712@gmail.com>"
+    },
+    {
+      "to": "contact@msc-yachting.com",
+      "domain": "msc-yachting.com",
+      "company_name": "MSC Yachting",
+      "subject": "Captain + Stewardess couple — available for MSC Yachting",
+      "date": "2026-05-26T14:36:35.308025+00:00",
+      "status": "sent",
+      "message_id": "<177980619530.9236.694100581495807552@gmail.com>"
+    },
+    {
+      "to": "jobs@smartcharteribiza.com",
+      "domain": "smartcharteribiza.com",
+      "company_name": "Smart Charter Ibiza",
+      "subject": "Captain + Stewardess couple — available for Smart Charter Ibiza",
+      "date": "2026-05-26T14:41:41.382179+00:00",
+      "status": "sent",
+      "message_id": "<177980650137.9236.6070230062053245802@gmail.com>"
+    },
+    {
+      "to": "info@charterenibiza.com",
+      "domain": "charterenibiza.com",
+      "company_name": "Charter en Ibiza",
+      "subject": "Captain + Stewardess couple — available for Charter en Ibiza",
+      "date": "2026-05-26T14:46:46.358772+00:00",
+      "status": "sent",
+      "message_id": "<177980680634.9236.17310368832948576590@gmail.com>"
+    },
+    {
+      "to": "info@justenjoyibiza.com",
+      "domain": "justenjoyibiza.com",
+      "company_name": "Just Enjoy Ibiza",
+      "subject": "Captain + Stewardess couple — available for Just Enjoy Ibiza",
+      "date": "2026-05-26T14:51:50.687596+00:00",
+      "status": "sent",
+      "message_id": "<177980711067.9236.13288747188015273865@gmail.com>"
+    },
+    {
+      "to": "ibiza@charteranddreams.com",
+      "domain": "charteranddreams.com",
+      "company_name": "Super Yacht Charter Ibiza (Charter & Dreams)",
+      "subject": "Captain + Stewardess couple — available for Super Yacht Charter Ibiza (Charter & Dreams)",
+      "date": "2026-05-26T14:56:55.977355+00:00",
+      "status": "sent",
+      "message_id": "<177980741597.9236.14078652759710005423@gmail.com>"
+    },
+    {
+      "to": "sales@amoyachts.com",
+      "domain": "amoyachts.com",
+      "company_name": "AmoYachts Ibiza",
+      "subject": "Captain + Stewardess couple — available for AmoYachts Ibiza",
+      "date": "2026-05-26T15:02:01.113020+00:00",
+      "status": "sent",
+      "message_id": "<177980772110.9236.1308554225002465060@gmail.com>"
+    },
+    {
+      "to": "info@barracudaibiza.com",
+      "domain": "barracudaibiza.com",
+      "company_name": "Barracuda Ibiza",
+      "subject": "Captain + Stewardess couple — available for Barracuda Ibiza",
+      "date": "2026-05-26T15:07:05.513886+00:00",
+      "status": "sent",
+      "message_id": "<177980802550.9236.14443239843610156785@gmail.com>"
+    },
+    {
+      "to": "contact@talamare.com",
+      "domain": "talamare.com",
+      "company_name": "Talamare",
+      "subject": "Captain + Stewardess couple — available for Talamare",
+      "date": "2026-05-26T15:12:11.187565+00:00",
+      "status": "sent",
+      "message_id": "<177980833118.9236.8476005859823802882@gmail.com>"
+    },
+    {
+      "to": "info@bespokeyachtcharter.com",
+      "domain": "bespokeyachtcharter.com",
+      "company_name": "Bespoke Yacht Charter",
+      "subject": "Captain + Stewardess couple — available for Bespoke Yacht Charter",
+      "date": "2026-05-26T15:17:15.749711+00:00",
+      "status": "sent",
+      "message_id": "<177980863574.9236.2407755665406918164@gmail.com>"
+    },
+    {
+      "to": "yachtandservice@gmail.com",
+      "domain": "yachtandservicesardinia.com",
+      "company_name": "Y&S Exclusive Charter Porto Cervo",
+      "subject": "Captain + Stewardess couple — available for Y&S Exclusive Charter Porto Cervo",
+      "date": "2026-05-26T15:22:19.226520+00:00",
+      "status": "sent",
+      "message_id": "<177980893921.9236.4439948401077877598@gmail.com>"
+    },
+    {
+      "to": "charter@bluwonder.com",
+      "domain": "bluwonder.com",
+      "company_name": "BW Charter Porto Cervo (Blu Wonder)",
+      "subject": "Captain + Stewardess couple — available for BW Charter Porto Cervo (Blu Wonder)",
+      "date": "2026-05-26T15:27:27.006070+00:00",
+      "status": "sent",
+      "message_id": "<177980924699.9236.560607327298394823@gmail.com>"
+    },
+    {
+      "to": "info@yachtcharterportocervo.com",
+      "domain": "yachtcharterportocervo.com",
+      "company_name": "Yacht Charter Porto Cervo",
+      "subject": "Captain + Stewardess couple — available for Yacht Charter Porto Cervo",
+      "date": "2026-05-29T20:27:48.064826+00:00",
+      "status": "sent",
+      "message_id": "<178008646804.18888.4249248279787524169@gmail.com>"
+    },
+    {
+      "to": "info@servizinauticisardegna.com",
+      "domain": "servizinauticisardegna.com",
+      "company_name": "Servizi Nautici Sardegna",
+      "subject": "Captain + Stewardess couple — available for Servizi Nautici Sardegna",
+      "date": "2026-05-29T20:33:00.313038+00:00",
+      "status": "sent",
+      "message_id": "<178008678030.18888.15780996801196403933@gmail.com>"
+    },
+    {
+      "to": "flavio@sorrentodreamcharter.com",
+      "domain": "sorrentodreamcharter.com",
+      "company_name": "Sorrento Dream Charter",
+      "subject": "Captain + Stewardess couple — available for Sorrento Dream Charter",
+      "date": "2026-05-29T20:38:04.125649+00:00",
+      "status": "sent",
+      "message_id": "<178008708411.18888.1709448942450510746@gmail.com>"
+    },
+    {
+      "to": "info@capaseccayacht.it",
+      "domain": "capaseccayacht.it",
+      "company_name": "Capasecca Yacht",
+      "subject": "Captain + Stewardess couple — available for Capasecca Yacht",
+      "date": "2026-05-29T20:43:06.428657+00:00",
+      "status": "sent",
+      "message_id": "<178008738640.18888.6771035961883479884@gmail.com>"
+    },
+    {
+      "to": "charters@bviyc.com",
+      "domain": "bviyachtcharters.com",
+      "company_name": "BVI Yacht Charters",
+      "subject": "Captain + Stewardess couple — available for BVI Yacht Charters",
+      "date": "2026-05-29T20:48:22.285470+00:00",
+      "status": "sent",
+      "message_id": "<178008770227.18888.4425978736912354859@gmail.com>"
+    },
+    {
+      "to": "info@blueoystersailing.com",
+      "domain": "blueoystersailing.com",
+      "company_name": "Blue Oyster Sailing / Barcelona Sailing School",
+      "subject": "Captain + Stewardess couple — available for Blue Oyster Sailing / Barcelona Sailing School",
+      "date": "2026-05-29T20:54:29.684420+00:00",
+      "status": "sent",
+      "message_id": "<178008806967.18888.8666726226756187906@gmail.com>"
+    },
+    {
+      "to": "sara@crewandconcierge.com",
+      "domain": "crewandconcierge.com",
+      "company_name": "Crew & Concierge",
+      "subject": "Captain + Stewardess couple — available for Crew & Concierge",
+      "date": "2026-05-29T20:59:32.000059+00:00",
+      "status": "sent",
+      "message_id": "<178008837199.18888.11545394732412949097@gmail.com>"
+    },
+    {
+      "to": "yachtcharter@kavas.com",
+      "domain": "kavas.com",
+      "company_name": "Kavas Yachting",
+      "subject": "Captain + Stewardess couple — available for Kavas Yachting",
+      "date": "2026-05-29T21:04:34.166387+00:00",
+      "status": "sent",
+      "message_id": "<178008867415.18888.8955228415185790074@gmail.com>"
+    },
+    {
+      "to": "daniel@dmayachting.com",
+      "domain": "dmayachting.com",
+      "company_name": "DMA Yachting / My Greek Charter",
+      "subject": "Captain + Stewardess couple — available for DMA Yachting / My Greek Charter",
+      "date": "2026-05-29T21:09:36.558318+00:00",
+      "status": "sent",
+      "message_id": "<178008897654.18888.4048596335988096052@gmail.com>"
+    },
+    {
+      "to": "grenada@nsscharter.com",
+      "domain": "nsscharter.com",
+      "company_name": "NSS Charter Grenada",
+      "subject": "Captain + Stewardess couple — available for NSS Charter Grenada",
+      "date": "2026-05-29T21:14:40.511335+00:00",
+      "status": "sent",
+      "message_id": "<178008928050.18888.10348921493091562595@gmail.com>"
+    },
+    {
+      "to": "info@svgyachting.com",
+      "domain": "svgyachting.com",
+      "company_name": "SVG Yachting Grenadines",
+      "subject": "Captain + Stewardess couple — available for SVG Yachting Grenadines",
+      "date": "2026-05-29T21:19:42.954784+00:00",
+      "status": "sent",
+      "message_id": "<178008958294.18888.12641327854883438235@gmail.com>"
+    },
+    {
+      "to": "charter@nautilusyachting.com",
+      "domain": "nautilusyachting.com",
+      "company_name": "Nautilus Yachting Antigua",
+      "subject": "Captain + Stewardess couple — available for Nautilus Yachting Antigua",
+      "date": "2026-05-29T21:24:46.469601+00:00",
+      "status": "sent",
+      "message_id": "<178008988646.18888.9884023715163958492@gmail.com>"
+    },
+    {
+      "to": "info@bodtur.com",
+      "domain": "bodtur.com",
+      "company_name": "Bodtur Bodrum",
+      "subject": "Captain + Stewardess couple — available for Bodtur Bodrum",
+      "date": "2026-05-30T05:57:18.837936+00:00",
+      "status": "error",
+      "error": "[Errno 11001] getaddrinfo failed"
+    },
+    {
+      "to": "info@maltacharters.com",
+      "domain": "maltacharters.com",
+      "company_name": "Malta Charters",
+      "subject": "Captain + Stewardess couple — available for Malta Charters",
+      "date": "2026-05-30T06:02:32.609972+00:00",
+      "status": "sent",
+      "message_id": "<178012095259.18888.15759520201228162683@gmail.com>"
+    },
+    {
+      "to": "info@yachtinmalta.com",
+      "domain": "yachtinmalta.com",
+      "company_name": "Yacht in Malta",
+      "subject": "Captain + Stewardess couple — available for Yacht in Malta",
+      "date": "2026-05-30T06:07:35.777470+00:00",
+      "status": "sent",
+      "message_id": "<178012125576.18888.4403474441555837549@gmail.com>"
+    },
+    {
+      "to": "info@boatchartermenorca.com",
+      "domain": "boatchartermenorca.com",
+      "company_name": "Boat Charter Menorca",
+      "subject": "Captain + Stewardess couple — available for Boat Charter Menorca",
+      "date": "2026-05-30T06:12:39.592449+00:00",
+      "status": "sent",
+      "message_id": "<178012155957.18888.17743766575323822233@gmail.com>"
+    }
+  ],
+  "errors": [
+    {
+      "to": "info@bodtur.com",
+      "domain": "bodtur.com",
+      "company_name": "Bodtur Bodrum",
+      "subject": "Captain + Stewardess couple — available for Bodtur Bodrum",
+      "date": "2026-05-30T05:57:18.837936+00:00",
+      "status": "error",
+      "error": "[Errno 11001] getaddrinfo failed"
+    }
+  ]
+}

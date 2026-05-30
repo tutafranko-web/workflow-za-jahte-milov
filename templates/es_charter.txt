@@ -1,0 +1,23 @@
+SUBJECT_VARIANTS:
+- Pareja patrón + marinera disponible — inicio inmediato, {{ city }}
+- Patrón (RYA Yachtmaster) + marinera (D2) buscando temporada en {{ city }}
+- ¿Tienen huecos para patrón+marinera a mitad de temporada en {{ company_name }}?
+- Pareja croata patrón + marinera — disponibles para relevos o 2ª mitad de temporada
+
+---
+BODY:
+Hola {{ contact_first_name | default('equipo') }},
+
+{{ personalization }}
+
+Mi pareja {{ deckhand_first_name }} y yo somos una pareja patrón + marinera disponible de inmediato para {{ city }}{% if also_caribbean %} y la próxima temporada de invierno en el Caribe{% endif %}. Tengo titulación RYA Yachtmaster ({{ skipper_experience_years }} años de experiencia, {{ vessel_types_short }}); {{ deckhand_first_name }} tiene titulación croata D2 con experiencia en excursiones diarias como marinera/azafata. Llevamos varias temporadas completas haciendo excursiones diarias desde Split-Hvar-Brač-Vis, y queremos dar el salto a una operación de charter seria.
+
+Idiomas: {{ languages }}. Croatas, disponibles para el resto de la temporada 2026 y para el invierno caribeño 2026/27.
+
+Adjuntamos nuestro CV conjunto. Si tienen una vacante — incluso relevos a corto plazo — nos encantaría hablar. Podemos enviar referencias o agendar una llamada rápida cuando os venga bien.
+
+Un saludo,
+{{ skipper_full_name }}
+{{ skipper_phone }} (WhatsApp) · {{ skipper_email }}
+
+— Responde STOP para no recibir más mensajes.

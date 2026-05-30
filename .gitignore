@@ -1,0 +1,9 @@
+.env
+data/config.env
+*.log
+logs/
+__pycache__/
+*.pyc
+.venv/
+data/couple_cv_b64.txt
+.claude/

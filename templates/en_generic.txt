@@ -1,0 +1,28 @@
+SUBJECT_VARIANTS:
+- Skipper + deckhand pair available in {{ city }}
+- RYA Yachtmaster + D2 deckhand — looking for {{ city }} work
+- Available skipper + deckhand — {{ category_label }} role
+- Croatian skipper + deckhand pair, looking for {{ city }} season work
+
+---
+BODY:
+Hi {{ contact_first_name | default('there') }},
+
+{{ personalization }}
+
+I'm writing on the chance that {{ company_name }} hires (or knows someone who hires) crew. My partner and I are a skipper + deckhand pair available immediately:
+
+- **{{ skipper_full_name }}** — RYA Yachtmaster, {{ skipper_experience_years }} years on {{ vessel_types_short }}
+- **{{ deckhand_full_name }}** — Croatian D2, daily-tour deckhand + hostess experience
+
+We've run full seasons in Croatia (Split-Hvar-Brač-Vis daily tours) and are looking to move into a serious operation in {{ city }} or wider Mediterranean. Caribbean winter 2026/27 also open.
+
+Languages: {{ languages }}.
+
+Joint CV attached. Even if {{ company_name }} isn't hiring directly, a referral to someone who is would mean a lot.
+
+Best,
+{{ skipper_full_name }}
+{{ skipper_phone }} (WhatsApp) · {{ skipper_email }}
+
+— Reply STOP to opt out.

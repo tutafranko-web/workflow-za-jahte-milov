@@ -1,0 +1,26 @@
+SUBJECT_VARIANTS:
+- Registro como pareja patrón + marinera disponible — {{ tier_label }}
+- Patrón (RYA Yachtmaster) + marinera (D2) — disponibles para colocación
+- Pareja croata, disponible de inmediato para colocación patrón + marinera
+- Pareja patrón + azafata — alta en {{ company_name }}
+
+---
+BODY:
+Hola {{ contact_first_name | default('equipo de tripulación') }},
+
+{{ personalization }}
+
+Nos gustaría darnos de alta como pareja patrón + marinera disponible para colocación inmediata a través de {{ company_name }}.
+
+- **{{ skipper_full_name }}** — RYA Yachtmaster, {{ skipper_experience_years }} años de experiencia en {{ vessel_types_short }}. Idiomas: {{ skipper_languages }}.
+- **{{ deckhand_full_name }}** — D2 croata (Boatmaster D2), {{ deckhand_experience_years }} años de experiencia como marinera y azafata en excursiones diarias. Idiomas: {{ deckhand_languages }}.
+
+Estamos disponibles para el resto de la temporada Med 2026 (incluyendo relevos a corto plazo) y la temporada caribeña 2026/27. Abiertos a Palma de Mallorca, Baleares, Italia, Costa Azul francesa o Caribe.
+
+Adjuntamos CV conjunto. Decidnos si necesitáis más documentación (pasaportes, titulaciones, referencias, ENG1) y cómo es vuestro proceso de alta.
+
+Un saludo,
+{{ skipper_full_name }}
+{{ skipper_phone }} (WhatsApp) · {{ skipper_email }}
+
+— Responde STOP para no recibir más mensajes.

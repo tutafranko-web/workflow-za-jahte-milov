@@ -1,0 +1,23 @@
+SUBJECT_VARIANTS:
+- Skipper + deckhand pair available — immediate start, {{ city }}
+- Available skipper (RYA Yachtmaster) + deckhand (D2), looking for {{ city }} season
+- Mid-season skipper+deckhand availability for {{ company_name }}?
+- Croatian skipper + deckhand pair — open to {{ city }} relief or 2nd half of season
+
+---
+BODY:
+Hi {{ contact_first_name | default('there') }},
+
+{{ personalization }}
+
+My partner {{ deckhand_first_name }} and I are a skipper + deckhand pair available immediately for {{ city }}{% if also_caribbean %} and the upcoming Caribbean winter season{% endif %}. I hold an RYA Yachtmaster ({{ skipper_experience_years }} years experience, {{ vessel_types_short }}); {{ deckhand_first_name }} holds a Croatian D2 with daily-tour deckhand and hostess experience. We've run full seasons of daily tours out of Split — Hvar — Brač — Vis and are looking to move into a serious charter operation.
+
+Languages: {{ languages }}. Both Croatian, available for the rest of the 2026 season plus the 2026/27 Caribbean winter.
+
+I've attached our joint CV. If you have an opening — even a short-notice relief — we'd love to hear from you. Happy to send references or jump on a quick call.
+
+Best,
+{{ skipper_full_name }}
+{{ skipper_phone }} (WhatsApp) · {{ skipper_email }}
+
+— Reply STOP to opt out.

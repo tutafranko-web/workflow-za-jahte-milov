@@ -1,0 +1,120 @@
+# Franko Tuta + Vana Končan — couple application bio
+# Parsed from Tuta_Koncan_Couple_Application_Compact.pdf on 2026-05-22
+
+skipper:
+  full_name: "Franko Tuta"
+  first_name: "Franko"
+  email: "tutafranko@gmail.com"
+  phone: "+385 95 737 8710"
+  age: 22
+  nationality: "Croatian"
+  hometown: "Vis, Croatia"
+  current_location: "Split / Vis, Croatia (relocating to Palma / Antibes)"
+  role: "Captain / Skipper / Deckhand"
+  certifications:
+    - "Yachtmaster"
+    - "Skipper License Category C (Croatian)"
+    - "STCW Basic Safety Training"
+    - "ENG1 Seafarer Medical"
+    - "PADI Open Water Diver"
+    - "Private Pilot License (PPL)"
+    - "B & A driving licenses"
+  experience_years: "3 seasons (2023–2026)"
+  vessel_types:
+    - "motor yachts up to 24m"
+    - "RIBs (Lomac 9.0, Marlin 790, Mercan 34, Enzo Vento HT30)"
+    - "cabin & walkaround motorboats (Bénéteau Antares, Jeanneau Cap Camarat)"
+    - "traditional wooden vessels (17m Blaga, 6m pasara)"
+    - "sport cruisers (Colnago 38)"
+  routes_done:
+    - "Central Dalmatian islands: Vis, Biševo (incl. precision Blue Cave entries), Hvar, Pakleni, Brač, Korčula"
+    - "3 consecutive seasons paid charter work for multiple agencies, private owners, freelance"
+  technical_skills:
+    - "Mediterranean stern-to mooring, anchoring with lines ashore"
+    - "Engine & electrical troubleshooting (mechatronics background)"
+    - "Navigation: GPS / chartplotter, route planning, weather"
+    - "VHF radio operating"
+    - "Tender & RIB operations"
+  other_background:
+    - "Boat Service Assistant — ACI Marina Split (2022, 2025): hull, engines, antifouling, yard ops"
+    - "Rafting guide & night equipment driver (2022)"
+    - "Owner of traditional Dalmatian wooden boat — Pasara 6m, Vis"
+    - "Kitesurfing, freediving, spearfishing, aviation"
+  languages:
+    - "Croatian (native)"
+    - "English (C1)"
+    - "Italian (basic)"
+  notes: |
+    Young (22) but with 3 seasons of paid charter work + technical high school
+    in Mechanical Engineering & Mechatronics. Strong mechanical/electrical
+    background, certified diver and licensed private pilot. Calm under pressure.
+
+deckhand:
+  full_name: "Vana Končan"
+  first_name: "Vana"
+  email: "vanko555@gmail.com"
+  phone: "+385 95 618 6027"
+  age: 21
+  nationality: "Croatian"
+  hometown: "Split, Croatia"
+  current_location: "Split, Croatia (relocating to Palma / Antibes)"
+  role: "Junior Stewardess / Deckhand"
+  certifications:
+    - "STCW Basic Safety Training"
+    - "ENG1 Seafarer Medical"
+    - "Food Hygiene Level 2"
+    - "Boat License Category B (Croatian)"
+    - "Driver's License B"
+  experience_years: "1 full charter season (2025) + ongoing hospitality"
+  experience:
+    - "Deckhand / Guest Transfer Crew — M/Y Speedboat 12m Charter, Split (Jun–Sep 2025)"
+    - "Hostess — Croatian National Theatre Split (Oct 2025 – present)"
+    - "Wine Festival Staff — Vinart d.o.o. (2023)"
+    - "Waiter — Caffe Bar Dalton (2022)"
+    - "Promoter — MPG d.o.o. (2023–2025)"
+    - "Boat cleaning (2021–2023)"
+  skills:
+    - "Guest service & hospitality"
+    - "Housekeeping & interior maintenance"
+    - "Laundry & wardrobe care"
+    - "Food & beverage service, table setting"
+    - "Tender guest assistance"
+    - "Basic deck operations, docking support"
+  education: "University of Split — Faculty of Kinesiology (KIFST), 2024–present"
+  languages:
+    - "Croatian (native)"
+    - "English (C1)"
+    - "Italian (basic)"
+  notes: |
+    Active lifestyle (fitness, rowing, diving, yoga). Fast learner.
+    Open to travel, long working hours, seasonal & full-time.
+
+couple:
+  status: "Together over a year, living together"
+  shared_experience: |
+    Worked same Croatian charter season side-by-side as crew on a chase boat
+    operation (2025) — guest transfers, daily ops, long hours, hot weather,
+    demanding clients. Proven working chemistry.
+  hometown_couple: "Vis, Croatia"
+  pitch: |
+    "We're not just two CVs — we're a working team that already knows how
+    to handle a season together. We're ready to bring that to your vessel."
+  hire_couple_benefits:
+    - "Easier paperwork — one couple cabin"
+    - "No mid-season breakup risk"
+    - "No compatibility risk between strangers"
+    - "Captain genuinely cares stewardess is treated well, and vice versa"
+
+availability:
+  start_date: "available immediately"
+  duration: "rest of 2026 Med season + open to 2026/27 Caribbean winter season"
+  willing_to_relocate: true
+  preferred_locations:
+    - "Palma de Mallorca (first choice)"
+    - "Antibes (second choice)"
+    - "Balearic Islands (Ibiza, Menorca, Mallorca)"
+    - "Italian Riviera (Liguria, Sardinia, Naples, Sicily)"
+    - "French Riviera (Antibes, Cannes, Nice, St. Tropez)"
+    - "Caribbean (BVI, St. Martin, Antigua) for winter season"
+
+blacklist_domains: []
