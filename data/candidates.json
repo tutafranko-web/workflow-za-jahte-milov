@@ -1,0 +1,887 @@
+{
+  "count": 126,
+  "candidates": [
+    {
+      "domain": "becharter.com",
+      "company_name": "BeCharter Mallorca",
+      "website": "https://www.becharter.com/",
+      "phone": "639 63 11 49",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "islandercharter.com",
+      "company_name": "Islander Charter Mallorca",
+      "website": "https://islandercharter.com/",
+      "phone": "672 68 43 45",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "heavenmallorca.com",
+      "company_name": "Heaven Mallorca Charter",
+      "website": "https://heavenmallorca.com/",
+      "phone": "669 85 10 05",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "llautcharter.com",
+      "company_name": "Llaüt Charter",
+      "website": "https://www.llautcharter.com/",
+      "phone": "669 78 92 46",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "palma-boats.com",
+      "company_name": "Palma Boats",
+      "website": "http://www.palma-boats.com/",
+      "phone": "699 75 53 06",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "boncharter.com",
+      "company_name": "Bon Charter",
+      "website": "https://www.boncharter.com/",
+      "phone": "681 90 75 77",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "almarbaleares.com",
+      "company_name": "Almar Baleares Charter",
+      "website": "http://www.almarbaleares.com/",
+      "phone": "687 58 29 76",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "boatcharter.zatara.es",
+      "company_name": "Zatara Mar - Yacht Charter - PuraVida",
+      "website": "https://boatcharter.zatara.es/en/boat/puravida-motoryacht-majorca-spain-club-de-mar/",
+      "phone": "711 01 34 03",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "mallorcaglobalcharter.com",
+      "company_name": "Mallorca Global Charter",
+      "website": "https://mallorcaglobalcharter.com/",
+      "phone": "676 00 48 28",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "yates-mallorca-charter.com",
+      "company_name": "Yates Mallorca Charter",
+      "website": "http://yates-mallorca-charter.com/",
+      "phone": "971 70 73 97",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "lalonjamarinacharter.com",
+      "company_name": "La Lonja Marina Charter",
+      "website": "http://www.lalonjamarinacharter.com/",
+      "phone": "634 27 98 90",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "gaffcharter-mallorca.com",
+      "company_name": "Gaff Charter Mallorca",
+      "website": "http://www.gaffcharter-mallorca.com/",
+      "phone": "680 19 30 06",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "mcspalma.com",
+      "company_name": "MALLORCA CHARTER & SERVICES",
+      "website": "http://mcspalma.com/",
+      "phone": "646 35 69 33",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "onchartermallorca.com",
+      "company_name": "Boat rental Palma On Charter",
+      "website": "http://www.onchartermallorca.com/",
+      "phone": "653 46 48 96",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "moya-charter.com",
+      "company_name": "Moya Charter",
+      "website": "https://www.moya-charter.com/",
+      "phone": "+49 1511 7641032",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "jsboatcharter.com",
+      "company_name": "Js Boat Charter",
+      "website": "https://jsboatcharter.com/",
+      "phone": "645 31 96 89",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "topwaveboatcharter.com",
+      "company_name": "Top Wave Boat Charter",
+      "website": "http://www.topwaveboatcharter.com/",
+      "phone": "622 59 85 47",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "suncharter.de",
+      "company_name": "Sun Charter Mallorca",
+      "website": "https://www.suncharter.de/en/destinations/spain/mallorca",
+      "phone": "622 45 15 94",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "pro-yachts.com",
+      "company_name": "ProYachts & Charter Mallorca",
+      "website": "https://pro-yachts.com/",
+      "phone": "678 75 61 18",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "daycharter.expert",
+      "company_name": "FIRST YACHT CHARTER Mallorca",
+      "website": "http://www.daycharter.expert/",
+      "phone": null,
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "charterkingmallorca.de",
+      "company_name": "CharterKing Mallorca",
+      "website": "https://www.charterkingmallorca.de/",
+      "phone": "971 22 21 11",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "saltytours.es",
+      "company_name": "Saltytours - Boat Charter Tour",
+      "website": "http://www.saltytours.es/",
+      "phone": "623 93 00 00",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "yachtsandsailingmallorca.com",
+      "company_name": "Yachts & Sailing Mallorca",
+      "website": "https://www.yachtsandsailingmallorca.com/",
+      "phone": "677 57 21 00",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "alcacharter.com",
+      "company_name": "Alca Charter",
+      "website": "http://www.alcacharter.com/",
+      "phone": "638 65 00 75",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "bluebnc.com",
+      "company_name": "Bluebnc - Yacht Charter Mallorca by Azul Privé",
+      "website": "http://www.bluebnc.com/",
+      "phone": "971 25 13 74",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "pepescharter.com",
+      "company_name": "Pepes Charter - Boat tours",
+      "website": "https://www.pepescharter.com/",
+      "phone": "658 48 43 01",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "mistralcharter.com",
+      "company_name": "Mistral Charter",
+      "website": "https://mistralcharter.com/",
+      "phone": "+44 7542 852274",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "laserenacharterboats.com",
+      "company_name": "La Serena Charter & Boats",
+      "website": "https://www.laserenacharterboats.com/",
+      "phone": "683 16 84 43",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "cool-boats.com",
+      "company_name": "Cool Boats Mallorca Charter",
+      "website": "http://www.cool-boats.com/",
+      "phone": "+49 1520 6055180",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "aquilapalmacharter.com",
+      "company_name": "Aquila palma Charter",
+      "website": "https://aquilapalmacharter.com/",
+      "phone": "664 31 44 44",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "cna-yachtcharter.com",
+      "company_name": "CNA YACHT CHARTER",
+      "website": "http://cna-yachtcharter.com/",
+      "phone": null,
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "mallorcacharterexperience.com",
+      "company_name": "Mallorca Charter Experience",
+      "website": "https://www.mallorcacharterexperience.com/",
+      "phone": "652 42 44 97",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "cheekymonkeyyacht.com",
+      "company_name": "Cheeky Monkey Yacht",
+      "website": "https://www.cheekymonkeyyacht.com/",
+      "phone": null,
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "alboran-charter.com",
+      "company_name": "Alboran Charter (La Lonja Marina Charter)",
+      "website": "http://www.alboran-charter.com/",
+      "phone": "971 90 19 91",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "mallorcaboating.com",
+      "company_name": "Mallorca Boating - Day Charter & Services",
+      "website": "http://www.mallorcaboating.com/",
+      "phone": "646 85 23 96",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "firstchoiceyachtchartersmallorca.com",
+      "company_name": "First choice yacht charters mallorca",
+      "website": "https://www.firstchoiceyachtchartersmallorca.com/",
+      "phone": "+44 7753 667520",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "rentaboat.club",
+      "company_name": "Vi Charter Mallorca",
+      "website": "https://rentaboat.club/",
+      "phone": "+48 666 666 338",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "latitudcero.es",
+      "company_name": "Latitud Cero Yacht Charter",
+      "website": "http://www.latitudcero.es/",
+      "phone": "607 30 40 45",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "holisticdaychartermallorca.com",
+      "company_name": "Holistic Day Charter Mallorca",
+      "website": "https://holisticdaychartermallorca.com/",
+      "phone": "679 37 59 95",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "eccyacht.com",
+      "company_name": "Ecc Yacht Charter Mallorca",
+      "website": "http://www.eccyacht.com/",
+      "phone": "615 34 85 76",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "nostromochartermallorca.com",
+      "company_name": "NOSTROMO CHARTER MALLORCA",
+      "website": "http://www.nostromochartermallorca.com/",
+      "phone": null,
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "mallorcacharterboats.com",
+      "company_name": "Mallorca Charter Boats",
+      "website": "https://mallorcacharterboats.com/",
+      "phone": "610 26 46 10",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "capmallorca.com",
+      "company_name": "CAP Mallorca Charter",
+      "website": "http://www.capmallorca.com/",
+      "phone": "600 25 80 84",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "lagoon-charter.eu",
+      "company_name": "Lagoon-Charter",
+      "website": "http://lagoon-charter.eu/",
+      "phone": "664 42 27 27",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "pacificmallorca.com",
+      "company_name": "Pacific charters mallorca",
+      "website": "http://www.pacificmallorca.com/",
+      "phone": "608 94 31 10",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "pescaturismomallorca.com",
+      "company_name": "PESCATURISMO PALMA",
+      "website": "https://www.pescaturismomallorca.com/",
+      "phone": "622 34 73 89",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "charterdelmar.com",
+      "company_name": "Charter Del Mar",
+      "website": "http://www.charterdelmar.com/",
+      "phone": "606 59 17 84",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "sailero.com",
+      "company_name": "Sailero Boat Charter",
+      "website": "http://www.sailero.com/",
+      "phone": "672 66 33 86",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "cruesa.com",
+      "company_name": "five seasons yachting / cruesa mallorca",
+      "website": "http://www.cruesa.com/",
+      "phone": "971 28 28 21",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "plainsailing.com",
+      "company_name": "PlainSailing.com Yacht Charter",
+      "website": "https://plainsailing.com/destinations/spain/palma",
+      "phone": "+44 800 612 8210",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "daycharterpalma.com",
+      "company_name": "Day Charter Palma",
+      "website": "https://www.daycharterpalma.com/",
+      "phone": "+46 72 446 90 30",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "bluemarlincharter.com",
+      "company_name": "Blue Marlin Mallorca boat Charter",
+      "website": "https://www.bluemarlincharter.com/",
+      "phone": "687 60 01 39",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "marinaestrellacharter.com",
+      "company_name": "Marina Estrella Charter",
+      "website": "https://marinaestrellacharter.com/",
+      "phone": "669 73 70 05",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "chartervgo.com",
+      "company_name": "VGO Charter & Services",
+      "website": "http://chartervgo.com/",
+      "phone": "633 95 62 07",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "escuelanauticaibyachting.com",
+      "company_name": "IBYACHTING Escola Nautica",
+      "website": "https://www.escuelanauticaibyachting.com/",
+      "phone": "686 98 55 03",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "sailingpalma.com",
+      "company_name": "Sailing Palma",
+      "website": "https://www.sailingpalma.com/",
+      "phone": "637 85 60 32",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "flatseasyachting.com",
+      "company_name": "Flat Seas Yachting",
+      "website": "http://www.flatseasyachting.com/",
+      "phone": "666 59 19 69",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "dd-yacht.com",
+      "company_name": "Charter Yacht Double D",
+      "website": "http://dd-yacht.com/",
+      "phone": "665 20 92 70",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "snsyachtcharter.com",
+      "company_name": "SNS YACHT CHARTER",
+      "website": "http://www.snsyachtcharter.com/",
+      "phone": "971 05 90 96",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "7seascharter.net",
+      "company_name": "7SEAS CHARTER S.L.",
+      "website": "http://7seascharter.net/",
+      "phone": "690 67 29 16",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "sunnydaycharter.com",
+      "company_name": "Sunny Day Charter",
+      "website": "https://sunnydaycharter.com/",
+      "phone": "692 85 54 03",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "royalchartermallorca.com",
+      "company_name": "DC Royal Charter Mallorca",
+      "website": "https://www.royalchartermallorca.com/",
+      "phone": "640 52 55 70",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "yscharters.com",
+      "company_name": "Yacht Service Charters",
+      "website": "https://yscharters.com/",
+      "phone": "676 09 17 11",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "mallorcacharterpoint.com",
+      "company_name": "Mallorca Charter Point",
+      "website": "http://www.mallorcacharterpoint.com/",
+      "phone": "971 10 36 33",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "chartermallorcayachts.com",
+      "company_name": "Charter Mallorca Yachts",
+      "website": "https://www.chartermallorcayachts.com/",
+      "phone": "660 00 49 43",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "bigbluecharter.com",
+      "company_name": "Big Blue Charter",
+      "website": "https://www.bigbluecharter.com/",
+      "phone": "608 41 79 89",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "seaucharter.com",
+      "company_name": "Sea U charter",
+      "website": "https://www.seaucharter.com/",
+      "phone": "634 82 32 02",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "fishingtripsmallorca.com",
+      "company_name": "Royal Charters Mallorca",
+      "website": "https://www.fishingtripsmallorca.com/home",
+      "phone": "620 72 49 20",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "boleor.com",
+      "company_name": "Captain Boleor",
+      "website": "https://boleor.com/",
+      "phone": "633 63 32 68",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "aloha-charter.com",
+      "company_name": "Aloha Charter Boat",
+      "website": "http://aloha-charter.com/",
+      "phone": "663 90 05 36",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "global-charters.com",
+      "company_name": "Global Charter",
+      "website": "http://www.global-charters.com/",
+      "phone": "971 26 05 70",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "med-charters.com",
+      "company_name": "Mediterranean Yachts - charter department",
+      "website": "https://www.med-charters.com/",
+      "phone": "609 06 78 06",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "gochartermallorca.com",
+      "company_name": "Go Charter Mallorca",
+      "website": "http://www.gochartermallorca.com/",
+      "phone": "635 90 26 46",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "smartchartermallorca.com",
+      "company_name": "Smart Charter Mallorca",
+      "website": "https://smartchartermallorca.com/",
+      "phone": "650 36 25 68",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "balearicsboatcharters.com",
+      "company_name": "Balearics Boat Charters",
+      "website": "https://www.balearicsboatcharters.com/",
+      "phone": "620 62 69 58",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "chartershootingstar.com",
+      "company_name": "Charter Shootting Star",
+      "website": "https://chartershootingstar.com/",
+      "phone": "611 49 36 15",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "theblueiguana.pro",
+      "company_name": "TheBlueIguana Barcos Charter",
+      "website": "https://www.theblueiguana.pro/",
+      "phone": "647 69 31 75",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "chartermallorca.es",
+      "company_name": "Charter Mallorca",
+      "website": "https://chartermallorca.es/contacto/",
+      "phone": "636 74 38 75",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "hoxtoncharters.com",
+      "company_name": "Hoxton Charters",
+      "website": "https://hoxtoncharters.com/",
+      "phone": "604 94 72 09",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "polcharter.com",
+      "company_name": "Pol Charter",
+      "website": "https://www.polcharter.com/",
+      "phone": "652 68 07 04",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "portofinocharters.com",
+      "company_name": "Portofino Charters - Yacht Charter and Boat Hire in Mallorca",
+      "website": "https://portofinocharters.com/",
+      "phone": "695 57 80 97",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "lifestyle-charters.com",
+      "company_name": "Lifestyle Charters S.L",
+      "website": "https://www.lifestyle-charters.com/",
+      "phone": "655 77 04 37",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "arenalboatcharter.com",
+      "company_name": "Arenal Boat Charter",
+      "website": "http://www.arenalboatcharter.com/",
+      "phone": "639 92 03 88",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "coastlinecharters.es",
+      "company_name": "Coastline Charters",
+      "website": "https://www.coastlinecharters.es/",
+      "phone": "662 24 66 87",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "livemallorcacharter.com",
+      "company_name": "Charter en Mallorca | Live MaJorca Charter",
+      "website": "https://livemallorcacharter.com/",
+      "phone": "667 55 36 66",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "thespiritofpalma.com",
+      "company_name": "The Spirit of Palma Motor Yacht Charter",
+      "website": "https://www.thespiritofpalma.com/",
+      "phone": "651 43 40 34",
+      "source_csv": "palma_charter_2026-05-30.csv"
+    },
+    {
+      "domain": "easycharter.es",
+      "company_name": "EasyCharter.es",
+      "website": "https://www.easycharter.es/",
+      "phone": "636 08 21 44",
+      "source_csv": "palma_charter_2026-05-30_b.csv"
+    },
+    {
+      "domain": "puertoportalscharters.com",
+      "company_name": "Puerto Portals Charters",
+      "website": "http://puertoportalscharters.com/",
+      "phone": "622 31 08 03",
+      "source_csv": "palma_charter_2026-05-30_b.csv"
+    },
+    {
+      "domain": "oceandreamsmallorca.com",
+      "company_name": "Ocean Dreams Mallorca",
+      "website": "https://www.oceandreamsmallorca.com/",
+      "phone": "619 21 22 61",
+      "source_csv": "palma_charter_2026-05-30_b.csv"
+    },
+    {
+      "domain": "sunseacharter.com",
+      "company_name": "Sun Sea Charter",
+      "website": "http://www.sunseacharter.com/",
+      "phone": "645 41 26 43",
+      "source_csv": "palma_charter_2026-05-30_b.csv"
+    },
+    {
+      "domain": "elegantyachtscharter.com",
+      "company_name": "Elegant Yachts",
+      "website": "https://www.elegantyachtscharter.com/",
+      "phone": null,
+      "source_csv": "palma_charter_2026-05-30_b.csv"
+    },
+    {
+      "domain": "yacht.fun",
+      "company_name": "Yacht Fun",
+      "website": "https://yacht.fun/contact",
+      "phone": "684 41 66 19",
+      "source_csv": "palma_charter_2026-05-30_b.csv"
+    },
+    {
+      "domain": "bestboats-yachtcharter.com",
+      "company_name": "Bestboats Yachtcharter",
+      "website": "http://www.bestboats-yachtcharter.com/",
+      "phone": "971 57 37 73",
+      "source_csv": "palma_charter_2026-05-30_b.csv"
+    },
+    {
+      "domain": "makinwavescharters.com",
+      "company_name": "Makin' Waves Yacht Charters",
+      "website": "https://www.makinwavescharters.com/",
+      "phone": "634 34 47 67",
+      "source_csv": "palma_charter_2026-05-30_b.csv"
+    },
+    {
+      "domain": "boatrentalmallorca.net",
+      "company_name": "Boat Rental Mallorca – Boat Hire & Yacht Charter",
+      "website": "https://boatrentalmallorca.net/",
+      "phone": "662 10 17 18",
+      "source_csv": "palma_charter_2026-05-30_b.csv"
+    },
+    {
+      "domain": "motoryachtchartermallorca.com",
+      "company_name": "Samaric - Motor Yacht Charter Mallorca",
+      "website": "http://www.motoryachtchartermallorca.com/",
+      "phone": "+44 7767 260287",
+      "source_csv": "palma_charter_2026-05-30_b.csv"
+    },
+    {
+      "domain": "captain-balear.com",
+      "company_name": "Boleor Boat Charter Can Pastilla - Captain Balear",
+      "website": "http://captain-balear.com/",
+      "phone": "633 63 32 48",
+      "source_csv": "palma_charter_2026-05-30_b.csv"
+    },
+    {
+      "domain": "online-charter.com",
+      "company_name": "Online Charter - Yachtcharter auf Mallorca",
+      "website": "https://www.online-charter.com/",
+      "phone": "+49 175 8555372",
+      "source_csv": "palma_charter_2026-05-30_b.csv"
+    },
+    {
+      "domain": "aura-lifestyle.co.uk",
+      "company_name": "Aura Yacht and Private Jet Charter",
+      "website": "http://aura-lifestyle.co.uk/",
+      "phone": "660 67 40 47",
+      "source_csv": "palma_charter_2026-05-30_b.csv"
+    },
+    {
+      "domain": "sail-event-consult.de",
+      "company_name": "Yachting Events Luxury Yacht charter",
+      "website": "https://www.sail-event-consult.de/",
+      "phone": "627 20 76 91",
+      "source_csv": "palma_charter_2026-05-30_b.csv"
+    },
+    {
+      "domain": "skyraycharter.com",
+      "company_name": "SkyRay Charters",
+      "website": "https://skyraycharter.com/",
+      "phone": null,
+      "source_csv": "palma_charter_2026-05-30_b.csv"
+    },
+    {
+      "domain": "irisyachtcharter.com",
+      "company_name": "IRIS Yachtcharter S.L.",
+      "website": "https://irisyachtcharter.com/",
+      "phone": "+49 1575 8361019",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "metachartermallorca.com",
+      "company_name": "Meta Charter Mallorca",
+      "website": "https://metachartermallorca.com/",
+      "phone": "637 22 90 56",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "sunlife-events.eu",
+      "company_name": "Sunlife Events Boat Charter Mallorca",
+      "website": "https://www.sunlife-events.eu/",
+      "phone": "631 87 01 91",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "chartersalnimar.com",
+      "company_name": "charter salnimar",
+      "website": "https://www.chartersalnimar.com/",
+      "phone": "690 02 94 83",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "mareasuncharter.com",
+      "company_name": "Marea Sun Charter SL",
+      "website": "https://www.mareasuncharter.com/",
+      "phone": "644 64 33 13",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "seabreezechartermallorca.com",
+      "company_name": "Sea Breeze Charter Mallorca",
+      "website": "http://www.seabreezechartermallorca.com/",
+      "phone": "634 34 00 47",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "mallorca-bootcharter.de",
+      "company_name": "Mallorca Bootcharter",
+      "website": "http://www.mallorca-bootcharter.de/",
+      "phone": "659 29 33 27",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "rapitacharter.es",
+      "company_name": "Rapita Charter",
+      "website": "https://rapitacharter.es/",
+      "phone": "623 23 52 26",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "calasdemallorcacharter.com",
+      "company_name": "calas de mallorca charter",
+      "website": "https://www.calasdemallorcacharter.com/",
+      "phone": "617 33 60 01",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "bluecoastcharter.com",
+      "company_name": "Blue Coast Charter",
+      "website": "https://bluecoastcharter.com/",
+      "phone": "+48 692 420 652",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "seahivez.com",
+      "company_name": "Magica boat charter",
+      "website": "https://seahivez.com/",
+      "phone": "610 45 17 75",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "oceanchartermallorca.com",
+      "company_name": "Ocean Charter Mallorca",
+      "website": "http://www.oceanchartermallorca.com/",
+      "phone": "687 35 30 58",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "blueseacharter.com",
+      "company_name": "Blue Sea Charter Cala d'Or",
+      "website": "https://blueseacharter.com/",
+      "phone": "600 04 01 32",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "saltysummermallorca.com",
+      "company_name": "SALTY SUMMER CHARTER MALLORCA",
+      "website": "https://www.saltysummermallorca.com/",
+      "phone": "614 28 87 38",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "cmcharter.com",
+      "company_name": "CM Charter Sailme Mallorca",
+      "website": "http://www.cmcharter.com/",
+      "phone": "971 86 73 32",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "sollercharterexperience.com",
+      "company_name": "Sóller Charter Experience",
+      "website": "http://www.sollercharterexperience.com/",
+      "phone": "618 39 09 49",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "fishing-mallorca.net",
+      "company_name": "Fishing Mallorca Capt Vince Riera",
+      "website": "http://fishing-mallorca.net/",
+      "phone": "667 93 09 02",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "boatschartercalador.com",
+      "company_name": "Boats Charter Cala D'or",
+      "website": "https://boatschartercalador.com/",
+      "phone": "673 80 67 67",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "petro-charter.com",
+      "company_name": "porto petro boat charter",
+      "website": "https://www.petro-charter.com/",
+      "phone": "617 81 87 77",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "impericharter.com",
+      "company_name": "Imperi Charter",
+      "website": "http://www.impericharter.com/",
+      "phone": null,
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "selectocharter.com",
+      "company_name": "Bootsverleih Selecto charter",
+      "website": "https://selectocharter.com/",
+      "phone": "642 09 42 45",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "alejandra-charter.com",
+      "company_name": "Alejandra's Charter",
+      "website": "https://www.alejandra-charter.com/en/",
+      "phone": "661 76 05 60",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "brisamarinacharter.com",
+      "company_name": "Brisa Marina Charter",
+      "website": "https://www.brisamarinacharter.com/",
+      "phone": "623 96 98 39",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "poseidonmallorca.com",
+      "company_name": "Poseidon Charter Mallorca",
+      "website": "https://poseidonmallorca.com/",
+      "phone": "626 32 94 40",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    },
+    {
+      "domain": "daycharter.es",
+      "company_name": "Daycharter.es Virgen del Mar",
+      "website": "http://www.daycharter.es/",
+      "phone": "686 11 26 04",
+      "source_csv": "palma_charter_2026-05-30_c.csv"
+    }
+  ]
+}

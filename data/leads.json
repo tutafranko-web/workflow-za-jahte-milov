@@ -917,5 +917,625 @@
     "category": "charter",
     "city": "Saint-Tropez/Cannes/Nice/Monaco",
     "language": "en"
+  },
+  {
+    "to": "info@becharter.com",
+    "domain": "becharter.com",
+    "company_name": "BeCharter Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "639 63 11 49",
+    "whatsapp": null
+  },
+  {
+    "to": "info@islanderyacht.com",
+    "domain": "islandercharter.com",
+    "company_name": "Islander Charter Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "672 68 43 45",
+    "whatsapp": null
+  },
+  {
+    "to": "info@heavenmallorca.com",
+    "domain": "heavenmallorca.com",
+    "company_name": "Heaven Mallorca Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "669 85 10 05",
+    "whatsapp": "+34669851005"
+  },
+  {
+    "to": "info@palma-boats.com",
+    "domain": "palma-boats.com",
+    "company_name": "Palma Boats",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "699 75 53 06",
+    "whatsapp": null
+  },
+  {
+    "to": "info@boncharter.com",
+    "domain": "boncharter.com",
+    "company_name": "Bon Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "681 90 75 77",
+    "whatsapp": null
+  },
+  {
+    "to": "info@almarbaleares.com",
+    "domain": "almarbaleares.com",
+    "company_name": "Almar Baleares Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "687 58 29 76",
+    "whatsapp": null
+  },
+  {
+    "to": "info@zatara.es",
+    "domain": "boatcharter.zatara.es",
+    "company_name": "Zatara Mar - Yacht Charter - PuraVida",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "711 01 34 03",
+    "whatsapp": "+34711013403"
+  },
+  {
+    "to": "info@mallorcaglobalcharter.com",
+    "domain": "mallorcaglobalcharter.com",
+    "company_name": "Mallorca Global Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "676 00 48 28",
+    "whatsapp": "+34676004828"
+  },
+  {
+    "to": "charter@yates-mallorca.com",
+    "domain": "yates-mallorca-charter.com",
+    "company_name": "Yates Mallorca Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "971 70 73 97",
+    "whatsapp": null
+  },
+  {
+    "to": "bookings@gaffchartermallorca.com",
+    "domain": "gaffcharter-mallorca.com",
+    "company_name": "Gaff Charter Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "680 19 30 06",
+    "whatsapp": "+34680193006"
+  },
+  {
+    "to": "info@mcspalma.com",
+    "domain": "mcspalma.com",
+    "company_name": "MALLORCA CHARTER & SERVICES",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "646 35 69 33",
+    "whatsapp": null
+  },
+  {
+    "to": "info@moyacharter.com",
+    "domain": "moya-charter.com",
+    "company_name": "Moya Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "+49 1511 7641032",
+    "whatsapp": "+4915117641032"
+  },
+  {
+    "to": "info@pro-yachts.com",
+    "domain": "pro-yachts.com",
+    "company_name": "ProYachts & Charter Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "678 75 61 18",
+    "whatsapp": "+34678756118"
+  },
+  {
+    "to": "info@charterkingmallorca.de",
+    "domain": "charterkingmallorca.de",
+    "company_name": "CharterKing Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "971 22 21 11",
+    "whatsapp": null
+  },
+  {
+    "to": "charter@bluebnc.com",
+    "domain": "bluebnc.com",
+    "company_name": "Bluebnc - Yacht Charter Mallorca by Azul Privé",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "971 25 13 74",
+    "whatsapp": null
+  },
+  {
+    "to": "info@cool-boats.com",
+    "domain": "cool-boats.com",
+    "company_name": "Cool Boats Mallorca Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "+49 1520 6055180",
+    "whatsapp": null
+  },
+  {
+    "to": "hello@mallorcacharterexperience.com",
+    "domain": "mallorcacharterexperience.com",
+    "company_name": "Mallorca Charter Experience",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "652 42 44 97",
+    "whatsapp": null
+  },
+  {
+    "to": "alboran@alboran-charter.com",
+    "domain": "alboran-charter.com",
+    "company_name": "Alboran Charter (La Lonja Marina Charter)",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "971 90 19 91",
+    "whatsapp": null
+  },
+  {
+    "to": "info@mallorcaboating.com",
+    "domain": "mallorcaboating.com",
+    "company_name": "Mallorca Boating - Day Charter & Services",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "646 85 23 96",
+    "whatsapp": "+34646852396"
+  },
+  {
+    "to": "info@rentaboat.club",
+    "domain": "rentaboat.club",
+    "company_name": "Vi Charter Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "+48 666 666 338",
+    "whatsapp": "+48666666338"
+  },
+  {
+    "to": "elencuentro@navegarmallorca.com",
+    "domain": "holisticdaychartermallorca.com",
+    "company_name": "Holistic Day Charter Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "679 37 59 95",
+    "whatsapp": null
+  },
+  {
+    "to": "info@eccyacht.com",
+    "domain": "eccyacht.com",
+    "company_name": "Ecc Yacht Charter Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "615 34 85 76",
+    "whatsapp": "+34615348576"
+  },
+  {
+    "to": "salvador@nostromochartermallorca.com",
+    "domain": "nostromochartermallorca.com",
+    "company_name": "NOSTROMO CHARTER MALLORCA",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "+34679906919",
+    "whatsapp": null
+  },
+  {
+    "to": "info@mallorcacharterboats.com",
+    "domain": "mallorcacharterboats.com",
+    "company_name": "Mallorca Charter Boats",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "610 26 46 10",
+    "whatsapp": "+34610264610"
+  },
+  {
+    "to": "info@capmallorca.com",
+    "domain": "capmallorca.com",
+    "company_name": "CAP Mallorca Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "600 25 80 84",
+    "whatsapp": null
+  },
+  {
+    "to": "info@lagoon-charter.eu",
+    "domain": "lagoon-charter.eu",
+    "company_name": "Lagoon-Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "664 42 27 27",
+    "whatsapp": null
+  },
+  {
+    "to": "info@fiveseasonsyachting.com",
+    "domain": "cruesa.com",
+    "company_name": "five seasons yachting / cruesa mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "971 28 28 21",
+    "whatsapp": null
+  },
+  {
+    "to": "info@plainsailing.com",
+    "domain": "plainsailing.com",
+    "company_name": "PlainSailing.com Yacht Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "+44 800 612 8210",
+    "whatsapp": "+447753801869"
+  },
+  {
+    "to": "info@independenceofherm.com",
+    "domain": "daycharterpalma.com",
+    "company_name": "Day Charter Palma",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "+46 72 446 90 30",
+    "whatsapp": null
+  },
+  {
+    "to": "soporte@webador.es",
+    "domain": "bluemarlincharter.com",
+    "company_name": "Blue Marlin Mallorca boat Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "687 60 01 39",
+    "whatsapp": "+34687600139"
+  },
+  {
+    "to": "charter@marinaestrella.com",
+    "domain": "marinaestrellacharter.com",
+    "company_name": "Marina Estrella Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "669 73 70 05",
+    "whatsapp": "+34669737005"
+  },
+  {
+    "to": "info@escuelanauticaibyachting.com",
+    "domain": "escuelanauticaibyachting.com",
+    "company_name": "IBYACHTING Escola Nautica",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "686 98 55 03",
+    "whatsapp": null
+  },
+  {
+    "to": "info@snsyachtcharter.com",
+    "domain": "snsyachtcharter.com",
+    "company_name": "SNS YACHT CHARTER",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "971 05 90 96",
+    "whatsapp": "+34618292844"
+  },
+  {
+    "to": "info@sunnydaycharter.com",
+    "domain": "sunnydaycharter.com",
+    "company_name": "Sunny Day Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "692 85 54 03",
+    "whatsapp": "+34692855403"
+  },
+  {
+    "to": "info@yachtservicepalma.com",
+    "domain": "yscharters.com",
+    "company_name": "Yacht Service Charters",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "676 09 17 11",
+    "whatsapp": "+34617474142"
+  },
+  {
+    "to": "info@mallorcacharterpoint.com",
+    "domain": "mallorcacharterpoint.com",
+    "company_name": "Mallorca Charter Point",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "971 10 36 33",
+    "whatsapp": null
+  },
+  {
+    "to": "info@seaucharter.com",
+    "domain": "seaucharter.com",
+    "company_name": "Sea U charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "634 82 32 02",
+    "whatsapp": null
+  },
+  {
+    "to": "info@fishingtripsmallorca.com",
+    "domain": "fishingtripsmallorca.com",
+    "company_name": "Royal Charters Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "620 72 49 20",
+    "whatsapp": "+0034677473244"
+  },
+  {
+    "to": "info@boleor.com",
+    "domain": "boleor.com",
+    "company_name": "Captain Boleor",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "633 63 32 68",
+    "whatsapp": "+34633633268"
+  },
+  {
+    "to": "info@med-charters.com",
+    "domain": "med-charters.com",
+    "company_name": "Mediterranean Yachts - charter department",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "609 06 78 06",
+    "whatsapp": "+34609067806"
+  },
+  {
+    "to": "info@gochartermallorca.com",
+    "domain": "gochartermallorca.com",
+    "company_name": "Go Charter Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "635 90 26 46",
+    "whatsapp": "+34635902646"
+  },
+  {
+    "to": "maria@smartchartermallorca.com",
+    "domain": "smartchartermallorca.com",
+    "company_name": "Smart Charter Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "650 36 25 68",
+    "whatsapp": "+34673539935"
+  },
+  {
+    "to": "info@balearicsboatcharters.com",
+    "domain": "balearicsboatcharters.com",
+    "company_name": "Balearics Boat Charters",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "620 62 69 58",
+    "whatsapp": null
+  },
+  {
+    "to": "info@chartermallorca.es",
+    "domain": "chartermallorca.es",
+    "company_name": "Charter Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "636 74 38 75",
+    "whatsapp": null
+  },
+  {
+    "to": "polcharter@polcharter.com",
+    "domain": "polcharter.com",
+    "company_name": "Pol Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "652 68 07 04",
+    "whatsapp": "+34652680704"
+  },
+  {
+    "to": "info@lifestyle-charters.com",
+    "domain": "lifestyle-charters.com",
+    "company_name": "Lifestyle Charters S.L",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "655 77 04 37",
+    "whatsapp": null
+  },
+  {
+    "to": "info@arenalboatcharter.com",
+    "domain": "arenalboatcharter.com",
+    "company_name": "Arenal Boat Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "639 92 03 88",
+    "whatsapp": null
+  },
+  {
+    "to": "charter@livemallorcacharter.com",
+    "domain": "livemallorcacharter.com",
+    "company_name": "Charter en Mallorca | Live MaJorca Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "667 55 36 66",
+    "whatsapp": "+34667553666"
+  },
+  {
+    "to": "charter@thespiritofpalma.com",
+    "domain": "thespiritofpalma.com",
+    "company_name": "The Spirit of Palma Motor Yacht Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "651 43 40 34",
+    "whatsapp": null
+  },
+  {
+    "to": "info@easycharter.es",
+    "domain": "easycharter.es",
+    "company_name": "EasyCharter.es",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "636 08 21 44",
+    "whatsapp": "+34600901610"
+  },
+  {
+    "to": "info@oceandreamsmallorca.com",
+    "domain": "oceandreamsmallorca.com",
+    "company_name": "Ocean Dreams Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "619 21 22 61",
+    "whatsapp": null
+  },
+  {
+    "to": "booking@sunseacharter.com",
+    "domain": "sunseacharter.com",
+    "company_name": "Sun Sea Charter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "645 41 26 43",
+    "whatsapp": "+34645412643"
+  },
+  {
+    "to": "hello@yacht.fun",
+    "domain": "yacht.fun",
+    "company_name": "Yacht Fun",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "684 41 66 19",
+    "whatsapp": "+34684416619"
+  },
+  {
+    "to": "info@bestboats-yachtcharter.com",
+    "domain": "bestboats-yachtcharter.com",
+    "company_name": "Bestboats Yachtcharter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "971 57 37 73",
+    "whatsapp": "+34648941200"
+  },
+  {
+    "to": "info@makinwavescharters.com",
+    "domain": "makinwavescharters.com",
+    "company_name": "Makin' Waves Yacht Charters",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "634 34 47 67",
+    "whatsapp": "+0034634344767"
+  },
+  {
+    "to": "info@online-charter.com",
+    "domain": "online-charter.com",
+    "company_name": "Online Charter - Yachtcharter auf Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "+49 175 8555372",
+    "whatsapp": "+00491758555372"
+  },
+  {
+    "to": "info@skyraycharter.com",
+    "domain": "skyraycharter.com",
+    "company_name": "SkyRay Charters",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "+34623991155",
+    "whatsapp": null
+  },
+  {
+    "to": "info@irisyachtcharter.com",
+    "domain": "irisyachtcharter.com",
+    "company_name": "IRIS Yachtcharter S.L.",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "+49 1575 8361019",
+    "whatsapp": "+34696625048"
+  },
+  {
+    "to": "info@sunlife-events.eu",
+    "domain": "sunlife-events.eu",
+    "company_name": "Sunlife Events Boat Charter Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "631 87 01 91",
+    "whatsapp": null
+  },
+  {
+    "to": "info@mysite.com",
+    "domain": "mareasuncharter.com",
+    "company_name": "Marea Sun Charter SL",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "644 64 33 13",
+    "whatsapp": null
+  },
+  {
+    "to": "bookings@seabreezechartermallorca.com",
+    "domain": "seabreezechartermallorca.com",
+    "company_name": "Sea Breeze Charter Mallorca",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "634 34 00 47",
+    "whatsapp": null
+  },
+  {
+    "to": "info@mallorca-bootcharter.de",
+    "domain": "mallorca-bootcharter.de",
+    "company_name": "Mallorca Bootcharter",
+    "category": "charter",
+    "city": "Palma de Mallorca",
+    "language": "en",
+    "phone": "659 29 33 27",
+    "whatsapp": null
   }
 ]

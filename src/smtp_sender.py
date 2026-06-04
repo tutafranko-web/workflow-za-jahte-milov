@@ -194,7 +194,7 @@ def main():
 
     # Load sent log
     log = load_sent_log()
-    sent_emails = {s['to'] for s in log['sent']}
+    sent_emails = {s['to'].lower() for s in log['sent']}
     today_count = count_sent_today(log)
     print(f'Already sent today: {today_count} / {DAILY_CAP}')
 
