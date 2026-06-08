@@ -1494,6 +1494,24 @@
       "date": "2026-06-07T11:32:56.542542+00:00",
       "status": "sent",
       "message_id": "<178083197653.2303.7762026743386935071@gmail.com>"
+    },
+    {
+      "to": "bookings@seabreezechartermallorca.com",
+      "domain": "seabreezechartermallorca.com",
+      "company_name": "Sea Breeze Charter Mallorca",
+      "subject": "Captain + Stewardess couple — available for Sea Breeze Charter Mallorca",
+      "date": "2026-06-08T11:52:21.468474+00:00",
+      "status": "sent",
+      "message_id": "<178091954146.2295.6681202180498751629@gmail.com>"
+    },
+    {
+      "to": "info@mallorca-bootcharter.de",
+      "domain": "mallorca-bootcharter.de",
+      "company_name": "Mallorca Bootcharter",
+      "subject": "Captain + Stewardess couple — available for Mallorca Bootcharter",
+      "date": "2026-06-08T11:57:23.271152+00:00",
+      "status": "sent",
+      "message_id": "<178091984326.2295.3389669493761933165@gmail.com>"
     }
   ],
   "errors": [
